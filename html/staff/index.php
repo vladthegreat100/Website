@@ -212,7 +212,7 @@
 				</div>
 			</div>
 			<h3 style="color: #CC2EFA">
-				Junior Moderators (3)
+				Junior Moderators (4)
 			</h3>
 						<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
