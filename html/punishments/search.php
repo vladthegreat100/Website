@@ -1,19 +1,19 @@
 <?php include 'config.php'; ?>
 <?php 
-if ($link = mysql_connect($Host, $Username, $Password)) {} else {
-	echo "<br>DB CONNECT ... fail<br>";
-}
-if (mysql_select_db($DB_Name, $link)) { } else {
-	echo "<br>DB SELECT ... fail<br>";
-}
-
-$search = $_GET["search"]; //substr($_SERVER['REQUEST_URI'], 1);
-if($search == ""){
-	header("Location: index.php");
-	die();
-}
-$uuid = json_decode(file_get_contents("https://api.mojang.com/users/profiles/minecraft/".$search."?at=".time()), true)['id'];
-?>
+	if ($link = mysql_connect($Host, $Username, $Password)) {} else {
+		echo "<br>DB CONNECT ... fail<br>";
+	}
+	if (mysql_select_db($DB_Name, $link)) { } else {
+		echo "<br>DB SELECT ... fail<br>";
+	}
+	
+	$search = $_GET["search"]; //substr($_SERVER['REQUEST_URI'], 1);
+	if($search == ""){
+		header("Location: index.php");
+		die();
+	}
+	$uuid = json_decode(file_get_contents("https://api.mojang.com/users/profiles/minecraft/".$search."?at=".time()), true)['id'];
+	?>
 <html>
 	<head>
 		<title><?php echo $Title; ?></title>
@@ -23,19 +23,17 @@ $uuid = json_decode(file_get_contents("https://api.mojang.com/users/profiles/min
 		<meta http-equiv="language" content="deutsch, de">
 		<meta name="viewport" content="initial-scale=0.5, width=device-width" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
-		
 	</head>
 	<?php
-	
-	function calcTime($d1, $d2){
-		$interval = $d2->diff($d1);
-		if ( $v = $interval->d >= 1 ) return $interval->d.' d';
-		if ( $v = $interval->h >= 1 ) return $interval->h.' h';
-		if ( $v = $interval->i >= 1 ) return $interval->i.' min';
-		return $interval->s.' sec';
-	}
-	
-	?>
+		function calcTime($d1, $d2){
+			$interval = $d2->diff($d1);
+			if ( $v = $interval->d >= 1 ) return $interval->d.' d';
+			if ( $v = $interval->h >= 1 ) return $interval->h.' h';
+			if ( $v = $interval->i >= 1 ) return $interval->i.' min';
+			return $interval->s.' sec';
+		}
+		
+		?>
 	<body>
 		<div class="shadow" id="header">
 			<span id="title" ><?php echo $msgTitle; ?></span>
@@ -82,19 +80,19 @@ $uuid = json_decode(file_get_contents("https://api.mojang.com/users/profiles/min
 								<span style="color: green; font-size: 25px;">'.$msgNotBanned.'</span><br/>
 							';
 					} 
-				?>
+					?>
 			</div>
 			<div style="float: left;">
 				<p id="borderd" width="400px" style="font-size:30px">Player-History </p>
 				<style>
-				th{
+					th{
 					font-size: 30px;
 					text-align: left;
 					width: 150px;
-				}
-				td{
+					}
+					td{
 					font-size: 20px;
-				}
+					}
 				</style>
 				<table style="padding-top:0px; padding-left:20px;">
 					<tr>
@@ -105,40 +103,39 @@ $uuid = json_decode(file_get_contents("https://api.mojang.com/users/profiles/min
 						<th><?php echo $msgTReason; ?></th>
 					</tr>
 					<?php 
-					$sql="SELECT * FROM PlayerHistory WHERE uuid='".$uuid."' ORDER BY STR_TO_DATE(`PlayerHistory`.`start`, '%d.%m.%Y-%H:%i:%s') DESC LIMIT 50";
-					$result=mysql_query($sql,$link);
-					if(mysql_num_rows($result)>0) {
-						for($i=0;$i<mysql_num_rows($result);$i++) {
-							$type = "Temp-Ban";
-							$ending = "-";
-							$rlType = mysql_result($result,$i,'end');
-							if($rlType == "BAN" OR $rlType == "KICK"){
-								$type = $rlType;
-							}else{
-								$end = DateTime::createFromFormat('d.m.Y-H:i:s', mysql_result($result,$i,'end'));
-								$ending = $end->format($DateFormat);
+						$sql="SELECT * FROM PlayerHistory WHERE uuid='".$uuid."' ORDER BY STR_TO_DATE(`PlayerHistory`.`start`, '%d.%m.%Y-%H:%i:%s') DESC LIMIT 50";
+						$result=mysql_query($sql,$link);
+						if(mysql_num_rows($result)>0) {
+							for($i=0;$i<mysql_num_rows($result);$i++) {
+								$type = "Temp-Ban";
+								$ending = "-";
+								$rlType = mysql_result($result,$i,'end');
+								if($rlType == "BAN" OR $rlType == "KICK"){
+									$type = $rlType;
+								}else{
+									$end = DateTime::createFromFormat('d.m.Y-H:i:s', mysql_result($result,$i,'end'));
+									$ending = $end->format($DateFormat);
+								}
+							
+								$date = DateTime::createFromFormat('d.m.Y-H:i:s', mysql_result($result,$i,'start'));
+							
+								echo '<tr>';
+								echo '<td>'.$date->format($DateFormat).'</td>';
+								echo '<td>'.$type.'</td>';
+								echo '<td>'.$ending.'</td>';
+								if($BannedBy) echo '<td>'.mysql_result($result,$i,'by').'</td>';
+								echo '<td>'.mysql_result($result,$i,'reason').'</td>';
+								echo '<tr>';
 							}
-						
-							$date = DateTime::createFromFormat('d.m.Y-H:i:s', mysql_result($result,$i,'start'));
-						
-							echo '<tr>';
-							echo '<td>'.$date->format($DateFormat).'</td>';
-							echo '<td>'.$type.'</td>';
-							echo '<td>'.$ending.'</td>';
-							if($BannedBy) echo '<td>'.mysql_result($result,$i,'by').'</td>';
-							echo '<td>'.mysql_result($result,$i,'reason').'</td>';
-							echo '<tr>';
-						}
-					}else{
-						echo '	</table>
-								<span style="padding:20px; color:#FF6C59; font-size: 30px;">'.$msgNoHistory.'</span><br/>
-								<table>';
-					} 
-				?>
+						}else{
+							echo '	</table>
+									<span style="padding:20px; color:#FF6C59; font-size: 30px;">'.$msgNoHistory.'</span><br/>
+									<table>';
+						} 
+						?>
 				</table>
 			</div>
 		</div>
-		
 		<div id="footer" class="shadow">
 			<span>Coded by <a href="http://contact.skamps.eu"  target="_blanc">LeokoTime</a> | © Copyright 2015</span>
 		</div>

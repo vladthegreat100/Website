@@ -1,18 +1,18 @@
 <?php include 'config.php'; ?>
 <?php
-if ($link = mysql_connect($Host, $Username, $Password)) {
+	if ($link = mysql_connect($Host, $Username, $Password)) {
+		
+	} else {
+		echo "<br>DB CONNECT ... fail<br>";
+	}
 	
-} else {
-	echo "<br>DB CONNECT ... fail<br>";
-}
-
-
-if (mysql_select_db($DB_Name, $link)) {
-//echo "<br>DB SELECT ... ok <br>";
-} else {
-	echo "<br><br><br>MySQL connection FAILED...<br>";
-}
-?>
+	
+	if (mysql_select_db($DB_Name, $link)) {
+	//echo "<br>DB SELECT ... ok <br>";
+	} else {
+		echo "<br><br><br>MySQL connection FAILED...<br>";
+	}
+	?>
 <html>
 	<head>
 		<title><?php echo $Title; ?></title>
@@ -22,65 +22,64 @@ if (mysql_select_db($DB_Name, $link)) {
 		<meta http-equiv="language" content="deutsch, de">
 		<meta name="viewport" content="initial-scale=0.5, width=device-width" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
-		
 	</head>
 	<?php
-	function calcTime($d1, $d2){
-		include 'config.php';
-		$interval = $d2->diff($d1);
-		if ( $v = $interval->d >= 1 ) return $interval->d.' d';
-		if ( $v = $interval->h >= 1 ) return $interval->h.' h';
-		if ( $v = $interval->i >= 1 ) return $interval->i.' min';
-		return $interval->s.' sec';
-	}
-	
-	function getBanOrKick($id, $time, $name, $reason, $by, $end){	
-		include 'config.php';
-		$addition = "";
-		if($end != ""){
-			$addition = '<tr class="hide-'.$id.'" >
-							<td align="right" style="color:#9EFF30;">'.$msgDuration.'</td> <td class="color2">"'.$end.'"</td>
-						</tr>';
+		function calcTime($d1, $d2){
+			include 'config.php';
+			$interval = $d2->diff($d1);
+			if ( $v = $interval->d >= 1 ) return $interval->d.' d';
+			if ( $v = $interval->h >= 1 ) return $interval->h.' h';
+			if ( $v = $interval->i >= 1 ) return $interval->i.' min';
+			return $interval->s.' sec';
 		}
-		echo'
-			<tr class="name-'.$id.'" style="cursor: pointer;">
-				<td class="color2" width="100px" align="right" style="font-size:20px;">
-					'.$time.'
-				</td>
-				<td>
-					<span class="reason-entry" >'.$name.'</span> <i style="font-size:15px;" class="fa fa-mouse-pointer"></i>
-				</td>
-			</tr>
-			<tr class="hide-'.$id.'" >
-				<td align="right" style="color:orange;">'.$msgReason.'</td> <td class="color2">"'.$reason.'"</td>
-			</tr>';
-		if($BannedBy){
-		    echo '<tr class="hide-'.$id.'" >
-				<td align="right" style="color:#3194CE;">'.$msgBannedBy.'</td> <td class="color2"">"'.$by.'"</td>
-			</tr>';
+		
+		function getBanOrKick($id, $time, $name, $reason, $by, $end){	
+			include 'config.php';
+			$addition = "";
+			if($end != ""){
+				$addition = '<tr class="hide-'.$id.'" >
+								<td align="right" style="color:#9EFF30;">'.$msgDuration.'</td> <td class="color2">"'.$end.'"</td>
+							</tr>';
+			}
+			echo'
+				<tr class="name-'.$id.'" style="cursor: pointer;">
+					<td class="color2" width="100px" align="right" style="font-size:20px;">
+						'.$time.'
+					</td>
+					<td>
+						<span class="reason-entry" >'.$name.'</span> <i style="font-size:15px;" class="fa fa-mouse-pointer"></i>
+					</td>
+				</tr>
+				<tr class="hide-'.$id.'" >
+					<td align="right" style="color:orange;">'.$msgReason.'</td> <td class="color2">"'.$reason.'"</td>
+				</tr>';
+			if($BannedBy){
+			    echo '<tr class="hide-'.$id.'" >
+					<td align="right" style="color:#3194CE;">'.$msgBannedBy.'</td> <td class="color2"">"'.$by.'"</td>
+				</tr>';
+			}
+				
+			echo $addition.'
+				
+				<style>
+				.hide-'.$id.'{
+					font-size: 0px;
+					
+					transition-timing-function: ease-out;
+					-webkit-transition-timing-function: ease-out;
+					
+					-webkit-transition: 0.5s;
+					transition: 0.5s;
+				}
+		
+				#main .name-'.$id.':hover ~ .hide-'.$id.'{
+					font-size: 25px;
+				}
+				</style>
+				';
 		}
-			
-		echo $addition.'
-			
-			<style>
-			.hide-'.$id.'{
-				font-size: 0px;
-				
-				transition-timing-function: ease-out;
-				-webkit-transition-timing-function: ease-out;
-				
-				-webkit-transition: 0.5s;
-				transition: 0.5s;
-			}
-
-			#main .name-'.$id.':hover ~ .hide-'.$id.'{
-				font-size: 25px;
-			}
-			</style>
-			';
-	}
-	
-	?>
+		
+		?>
 	<body>
 		<div class="shadow" id="header">
 			<span id="title" ><?php echo $msgTitle; ?></span>
@@ -117,9 +116,8 @@ if (mysql_select_db($DB_Name, $link)) {
 								<tr><td></td><td style="color:#FF6C59; font-size: 25px;">'.$msgNoBans.'</td></tr>
 							';
 					}
-				?>
+					?>
 			</table>
-			
 			<table width="400px">
 				<tr>
 					<th align="right" > <i class="fa fa-ban"></i> </th>
@@ -146,9 +144,8 @@ if (mysql_select_db($DB_Name, $link)) {
 								<tr><td></td><td style="color:#FF6C59; font-size: 25px;">'.$msgNoKicks.'</td></tr>
 							';
 					}
-				?>
+					?>
 			</table>
-			
 			<table width="400px">
 				<tr>
 					<th align="right"> <i class="fa fa-clock-o"></i> </th>
@@ -177,7 +174,7 @@ if (mysql_select_db($DB_Name, $link)) {
 								<tr><td></td><td style="color:#FF6C59; font-size: 25px;">'.$msgNoTempBans.'</td></tr>
 							';
 					}
-				?>
+					?>
 			</table>
 		</div>
 		<div id="footer" class="shadow">
