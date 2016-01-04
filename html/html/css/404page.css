@@ -1,0 +1,133 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Fredoka+One);
+@-webkit-keyframes logo {
+  0% {
+    -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+    opacity: .9;
+    filter: alpha(opacity=90);
+  }
+  50% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1);
+            transform: scale3d(1.1, 1.1, 1.1);
+    opacity: 1;
+    filter: alpha(opacity=100);
+  }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+    opacity: .9;
+    filter: alpha(opacity=90);
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+*:focus {
+  outline: 0;
+}
+a,
+a:hover,
+a:focus,
+a:visited,
+a:link {
+  color: #F4F4F4;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  display: table;
+  background: #1f1f1f url(http://i.imgur.com/Q6A0SdP.png);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #F4F4F4;
+}
+section {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  margin-bottom: 20px;
+}
+section div.logo {
+  width: auto;
+  height: auto;
+}
+section div.logo a img {
+  position: relative;
+  border: 0;
+  opacity: .8;
+  filter: alpha(opacity=80);
+  -webkit-transition: opacity .3s;
+          transition: opacity .3s;
+  -webkit-animation: logo 5s infinite;
+  max-width: 90%;
+  height: auto;
+  margin: 20px 20px 0 20px;
+}
+section div.logo a img:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+section ul {
+  list-style-type: none;
+  margin-bottom: 0;
+}
+section ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+section ul li a,
+section ul li a:hover,
+section ul li a:focus,
+section ul li a:visited,
+section ul li a:link {
+  display: block;
+  font-family: 'Fredoka One', cursive;
+  padding: 20px 30px;
+  font-size: 22px;
+  background: rgba(40, 40, 40, 0.93);
+  border: 3px solid #F4F4F4;
+  border-radius: 1px;
+  text-decoration: none;
+  color: #F4F4F4;
+  font-weight: bold;
+  text-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+  -webkit-transition: all .5s;
+          transition: all .5s;
+  min-width: 150px;
+  margin-bottom: 20px;
+  box-shadow: inset 0 -4px 0 #F4F4F4, 0 2px 0 rgba(0, 0, 0, 0.3);
+  outline: 0 !important;
+}
+section ul li a i,
+section ul li a:hover i,
+section ul li a:focus i,
+section ul li a:visited i,
+section ul li a:link i {
+  margin: 0 auto;
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+}
+section ul li a:hover {
+  -webkit-transform: scale3d(1.15, 1.15, 1.15);
+          transform: scale3d(1.15, 1.15, 1.15);
+}
+section div.details {
+  width: 600px;
+  max-width: 90%;
+  margin: 0 auto;
+  font-family: 'Fredoka One', cursive;
+  font-size: 22px;
+  color: #F4F4F4;
+  font-weight: bold;
+  padding: 20px 30px;
+}
+ u {
+    text-decoration: none;
+    border-bottom: 3px solid white;
+  }​

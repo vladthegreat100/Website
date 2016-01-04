@@ -1,0 +1,152 @@
+
+
+/*==================
+   Main-Settings
+==================*/
+@font-face { 
+	font-family: simphicia; src: url('simphicia.ttf');
+} 
+
+body{
+	font-family: simphicia;
+	color: #e5e5e5;
+	background-color: #021631;
+	overflow-x: hidden;
+	padding:-2px;
+	margin:0px;
+}
+
+a{
+	color: #e5e5e5;
+}
+
+.shadow{
+	-moz-box-shadow:    0px 0px 5px 2px #000000;
+	-webkit-box-shadow: 0px 0px 5px 2px #000000;
+	box-shadow:         0px 0px 5px 2px #000000;
+}
+
+.noshadow{
+	-moz-box-shadow:    0px 0px 0px 0px #000000;
+	-webkit-box-shadow: 0px 0px 0px 0px #000000;
+	box-shadow:         0px 0px 0px 0px #000000;
+}
+
+/*==================
+      Header
+==================*/
+#header{
+	position: fixed;
+	right: 0px;
+	left: 0px;
+	top: 0px;
+	margin-top: -20px;
+	padding-top: 15px;
+	margin-left: -20px;
+	padding-left: 40px;
+	background-color: #032149;
+	overflow: hidden;
+    white-space: nowrap;
+}
+
+form{
+	margin-top: 10px;
+	margin-right: 20px;
+	float: right;
+}
+
+.whiteIco{
+
+	transition-timing-function: ease-out;
+	-webkit-transition-timing-function: ease-out;
+	
+	-webkit-transition: 0.5s;
+    transition: 0.5s;
+
+	margin: 0px;
+	
+	background-color: white;
+	color:gray;
+	height: 25px;
+	width: 30px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.whiteIco:hover{
+	background-color: gray;
+	color: #002448;
+}
+
+span#title{
+	float: left;
+	font-size: 50px;
+}
+
+span.reason-entry{
+	font-size:30px;
+}
+
+span{
+	font-size:20px;
+}
+
+input{
+	height: 30px;
+}
+
+/*==================
+      Main
+==================*/
+#main{
+	height: 90%;
+	margin-top: -20px;
+	
+	padding: 20px;
+}
+
+.color2{
+	color: gray;
+}
+
+table{
+	padding-top: 40px;
+}
+
+th{
+	font-size: 40px;
+}
+table{
+	float: left;
+}
+
+/*==================
+      Footer
+==================*/
+#footer{
+	position: fixed;
+    bottom: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	background-color: #002448;
+	text-align: center;
+}
+
+
+/*==================
+      Search
+==================*/
+#borderd{
+	-moz-box-shadow:    0px 0px 0px 2px #e5e5e5;
+	-webkit-box-shadow: 0px 0px 0px 2px #e5e5e5;
+	box-shadow:         0px 0px 0px 2px #e5e5e5;
+	
+	width: 180px;
+	
+	text-align: center;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 20px;
+}
