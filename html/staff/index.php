@@ -214,6 +214,17 @@
 			<h3 style="color: #CC2EFA">
 				Junior Moderators (3)
 			</h3>
+						<div class="col-md-2 col-sm-3 col-xs-6">
+				<a href="">
+					<div class="text-center">
+						<img src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?helm" width="96" height="96">
+					</div>
+					<div class="text-center">
+						<b>JHPlays</b>
+						<img src="https://static.kohi.net/flags/png/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+					</div>
+				</a>
+			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
