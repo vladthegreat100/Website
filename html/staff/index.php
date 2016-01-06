@@ -221,7 +221,7 @@
 					</div>
 					<div class="text-center">
 						<b>S3A</b>
-						<img src="https://static.kohi.net/flags/png/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="America">
+						<img src="https://static.kohi.net/flags/png/pl.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="America">
 					</div>
 				</a>
 			</div>
