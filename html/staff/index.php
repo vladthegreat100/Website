@@ -21,7 +21,7 @@
 		</div>
 		<div class="container">
 			<h3 style="color: #f89406">
-				Head Admins (2)
+				Admins (4)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -43,6 +43,28 @@
 						<div class="text-center">
 							<b>vYuri</b>
 							<img src="https://static.kohi.net/flags/png/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>Sayah</b>
+							<img src="https://static.kohi.net/flags/png/es.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>xFracTV</b>
+							<img src="https://static.kohi.net/flags/png/mx.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
@@ -76,21 +98,11 @@
 				</div>
 			</div>
 			<!-- /Dev -->
+			<!-- Senior Mod-->
 			<h3 style="color: #C63939">
-				Senior Admin (2)
+				Senior Moderators (4)
 			</h3>
 			<div class="row">
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>Sayah</b>
-							<img src="https://static.kohi.net/flags/png/es.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
-						</div>
-					</a>
-				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
@@ -102,11 +114,6 @@
 						</div>
 					</a>
 				</div>
-			</div>
-			<h3 style="color: #3DC22B">
-				Admins (3)
-			</h3>
-			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
@@ -141,51 +148,10 @@
 					</a>
 				</div>
 			</div>
-			<h3 style="color: #2F32C9">
-				Senior Mod (1)
-			</h3>
-			<div class="row">
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>xFracTV</b>
-							<img src="https://static.kohi.net/flags/png/mx.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
-						</div>
-					</a>
-				</div>
-			</div>
-			<h3 style="color: #0CD7D1">
-				Moderators + (2)
-			</h3>
-			<div class="row">
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/c58188cb-25d8-4d44-97b1-11a598917f1b?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>SnowSX3</b>
-							<img src="https://static.kohi.net/flags/png/au.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
-						</div>
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/f586fa42-8d33-4bea-98e8-d08da9c1ae1a?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>Kodae</b>
-							<img src="https://static.kohi.net/flags/png/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
-						</div>
-					</a>
-				</div>
-			</div>
+			<!-- /Senior Mod -->
+			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators (2)
+				Moderators (4)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -210,7 +176,30 @@
 						</div>
 					</a>
 				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/c58188cb-25d8-4d44-97b1-11a598917f1b?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>SnowSX3</b>
+							<img src="https://static.kohi.net/flags/png/au.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/f586fa42-8d33-4bea-98e8-d08da9c1ae1a?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>Kodae</b>
+							<img src="https://static.kohi.net/flags/png/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+						</div>
+					</a>
+				</div>
 			</div>
+			<!-- /Mod -->
 			<h3 style="color: #CC2EFA">
 				Junior Moderators (5)
 			</h3>
