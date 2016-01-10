@@ -21,7 +21,12 @@
 		</div>
 		<br></a>
 		
-		<center>le type</center>
+<div class="span12" style="text-align: center; margin-top: 24px;">
+	<div class="alert alert-danger">
+		Registration closed
+<big></big>
+	</div>
+</div>
 		
 		<hr width="105%" />
 		<footer class="footer">
