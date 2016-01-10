@@ -19,9 +19,10 @@
 				</h2>
 			</div>
 		</div>
-		<br></a>		
- le type
-
+		<br></a>
+		
+		<center>le type</center>
+		
 		<hr width="105%" />
 		<footer class="footer">
 			<div class="container">
