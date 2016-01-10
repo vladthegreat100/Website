@@ -10,15 +10,16 @@
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<div class="container">
-			<div class="page-header">
-				<h2>
-					Tournaments
-					<small></small>
-					</a>
-				</h2>
-			</div>
+<div class="row">
+	<div class="container">
+		<div class="page-header">
+			<h2>
+				Tournaments
+			<small></small>
+				</a>
+			</h2>
 		</div>
+	</div>
 		<br></a>
 		
 <div class="span12" style="text-align: center; margin-top: 24px;">
