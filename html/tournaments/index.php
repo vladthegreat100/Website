@@ -29,7 +29,7 @@
 	</div>
 </div>
 		
-		<hr width="105%" />
+		<hr width="100%" />
 		<footer class="footer">
 			<div class="container">
 				<div class="pull-left">
