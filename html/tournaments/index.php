@@ -19,7 +19,7 @@
 				</h2>
 			</div>
 		</div>
-		
+		<br></a>		
  le type
 
 		<hr width="105%" />
