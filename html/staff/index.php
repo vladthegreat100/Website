@@ -187,17 +187,6 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/f586fa42-8d33-4bea-98e8-d08da9c1ae1a?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>Kodae</b>
-							<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
-						</div>
-					</a>
-				</div>
 			</div>
 			<!-- /Mod -->
 			<h3 style="color: #CC2EFA">
