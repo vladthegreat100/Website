@@ -151,7 +151,7 @@
 			<!-- /Senior Mod -->
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators (4)
+				Moderators (3)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
