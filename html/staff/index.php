@@ -189,8 +189,9 @@
 				</div>
 			</div>
 			<!-- /Mod -->
+			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
-				Junior Moderators (5)
+				Junior Moderators (7)
 			</h3>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
@@ -245,11 +246,33 @@
 						<b>trisi2908</b>
 						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
+				</a>
 			</div>
-			</a>
+			<div class="col-md-2 col-sm-3 col-xs-6">
+				<a href="">
+					<div class="text-center">
+						<img src="https://crafatar.com/avatars/135737b8-7f2b-4f90-aa37-ec395c7c6a9b?helm" width="96" height="96">
+					</div>
+					<div class="text-center">
+						<b>ApolloIsFunky</b>
+						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+					</div>
+				</a>
+			</div>
+			<div class="col-md-2 col-sm-3 col-xs-6">
+				<a href="">
+					<div class="text-center">
+						<img src="https://crafatar.com/avatars/6c5d7783-27fd-4ac5-8a1d-ba35206edf53?helm" width="96" height="96">
+					</div>
+					<div class="text-center">
+						<b>_Nathy</b>
+						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+					</div>
+				</a>
+			</div>
+			<!-- -->
 		</div>
-		</a>
-		</div>
+		<!-- /JrMod -->
 		</div>
 		<br></a>
 		<hr width="105%" />
