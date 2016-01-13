@@ -63,7 +63,7 @@
 							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
-							<b>xFracTV</b>
+							<b>Prodigy4532</b>
 							<img src="http://overridenetwork.net/images/flags/mx.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
