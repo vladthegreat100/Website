@@ -255,7 +255,7 @@
 					</div>
 					<div class="text-center">
 						<b>ApolloIsFunky</b>
-						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
+						<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
 				</a>
 			</div>
