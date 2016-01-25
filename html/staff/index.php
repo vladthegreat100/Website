@@ -31,7 +31,6 @@
 						</div>
 						<div class="text-center">
 							<b>alexanderjoe</b>
-							<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -42,7 +41,6 @@
 						</div>
 						<div class="text-center">
 							<b>vYuri</b>
-							<img src="http://overridenetwork.net/images/flags/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -53,7 +51,6 @@
 						</div>
 						<div class="text-center">
 							<b>Sayah</b>
-							<img src="http://overridenetwork.net/images/flags/es.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -64,7 +61,6 @@
 						</div>
 						<div class="text-center">
 							<b>Prodigy4532</b>
-							<img src="http://overridenetwork.net/images/flags/mx.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
@@ -81,7 +77,6 @@
 						</div>
 						<div class="text-center">
 							<b>_DC</b>
-							<img src="http://overridenetwork.net/images/flags/au.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
@@ -92,7 +87,6 @@
 						</div>
 						<div class="text-center">
 							<b>alexanderjoe</b>
-							<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -110,7 +104,6 @@
 						</div>
 						<div class="text-center">
 							<b>Recnac</b>
-							<img src="http://overridenetwork.net/images/flags/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
@@ -121,7 +114,6 @@
 						</div>
 						<div class="text-center">
 							<b>Lewzz</b>
-							<img src="http://overridenetwork.net/images/flags/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -132,7 +124,6 @@
 						</div>
 						<div class="text-center">
 							<b>Guaaaarz</b>
-							<img src="http://overridenetwork.net/images/flags/mx.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -140,7 +131,7 @@
 			<!-- /Senior Mod -->
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators (5)
+				Moderators (6)
 			</h3>
 			<div class="row">
 
@@ -151,7 +142,6 @@
 						</div>
 						<div class="text-center">
 							<b>Vitalism</b>
-							<img src="http://overridenetwork.net/images/flags/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
@@ -162,7 +152,6 @@
 						</div>
 						<div class="text-center">
 							<b>Slaweek</b>
-							<img src="http://overridenetwork.net/images/flags/ar.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Ireland">
 						</div>
 					</a>
 				</div>
@@ -173,21 +162,29 @@
 						</div>
 						<div class="text-center">
 							<b>SnowSX3</b>
-							<img src="http://overridenetwork.net/images/flags/au.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 						</div>
 					</a>
 				</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="">
-					<div class="text-center">
-						<img src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?helm" width="96" height="96">
-					</div>
-					<div class="text-center">
-						<b>JHPlays</b>
-						<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
-					</div>
-				</a>
-			</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>JHPlays</b>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>Acceqted</b>
+						</div>
+					</a>
+				</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
@@ -195,7 +192,6 @@
 					</div>
 					<div class="text-center">
 						<b>ApolloIsFunky</b>
-						<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
 				</a>
 			</div>
@@ -213,7 +209,6 @@
 					</div>
 					<div class="text-center">
 						<b>S3A</b>
-						<img src="http://overridenetwork.net/images/flags/pl.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="America">
 					</div>
 				</a>
 			</div>
@@ -224,7 +219,6 @@
 					</div>
 					<div class="text-center">
 						<b>Wimpinq</b>
-						<img src="http://overridenetwork.net/images/flags/us.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
 				</a>
 			</div>
@@ -235,7 +229,6 @@
 					</div>
 					<div class="text-center">
 						<b>trisi2908</b>
-						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
 				</a>
 			</div>
@@ -246,7 +239,6 @@
 					</div>
 					<div class="text-center">
 						<b>_Nathy</b>
-						<img src="http://overridenetwork.net/images/flags/at.png" width="16" height="11" data-toggle="tooltip" title="" style="vertical-align: baseline" data-original-title="Australia">
 					</div>
 				</a>
 			</div>
