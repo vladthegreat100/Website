@@ -94,7 +94,7 @@
 			<!-- /Dev -->
 			<!-- Senior Mod-->
 			<h3 style="color: #C63939">
-				Senior Moderators (3)
+				Senior Moderators (4)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -120,6 +120,16 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
+							<img src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>Acceqted</b>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
 							<img src="https://crafatar.com/avatars/c42cae13-acf3-448e-be42-08b605b2ecf7?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
@@ -131,7 +141,7 @@
 			<!-- /Senior Mod -->
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators (6)
+				Moderators (4)
 			</h3>
 			<div class="row">
 
@@ -142,16 +152,6 @@
 						</div>
 						<div class="text-center">
 							<b>Vitalism</b>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/66e08257-3c16-4474-869e-00dfea01dd6c?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>Slaweek</b>
 						</div>
 					</a>
 				</div>
@@ -172,16 +172,6 @@
 						</div>
 						<div class="text-center">
 							<b>JHPlays</b>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
-							<img src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>Acceqted</b>
 						</div>
 					</a>
 				</div>
