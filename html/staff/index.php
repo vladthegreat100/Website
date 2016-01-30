@@ -240,7 +240,7 @@
 		<footer class="footer">
 			<div class="container">
 				<div class="pull-left">
-					&copy; 2015 Override Network
+					&copy; 2016 Override Network
 				</div>
 				<div class="pull-right">
 					<a href="https://twitter.com/OverrideNet"><i class="fa fa-twitter fa-lg"></i></a>
