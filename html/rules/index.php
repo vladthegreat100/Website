@@ -57,7 +57,7 @@
 	<li>Mods that enhance player visibility (enlarged name tags)</li>
 	<li>Mods that enhance sprinting capabilities</li>
 	
-	<small>First offense - Permanent Ban</small>
+	<p><small>First offense - Permanent Ban</small></p>
 </ul>
 
 	<hr width="75%" />
