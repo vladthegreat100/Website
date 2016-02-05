@@ -68,7 +68,6 @@
 					</a>
 				</div>
 			</div>
-		<hr width="105%" />
 		<footer class="footer">
 			<div class="container">
 				<div class="pull-left">
