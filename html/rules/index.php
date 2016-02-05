@@ -20,7 +20,8 @@
 				</h2>
 			</div>
 		</div>
-      <hr width="75%" />
+      <hr width="100%" />
+		<div class="container">
 <h4>Information on Blacklists</h4>
 
 <ul>
@@ -318,6 +319,10 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
     </div>
   
 </div>
+						</div>
+					</a>
+				</div>
+			</div>
 		<hr width="105%" />
 		<footer class="footer">
 			<div class="container">
