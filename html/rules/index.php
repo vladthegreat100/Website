@@ -21,7 +21,7 @@
 			</div>
 		</div>
 		<div class="container">
-<h4><b>Information on Blacklists</b></h4>
+<h4><b><center>Information on Blacklists</center></b></h4>
 
 <ul>
 	<li><p>Blacklists are entirely up to the admins discretion and can not be appealed.</p></li>
@@ -30,7 +30,7 @@
 
 	<hr width="75%" />
 
-<h4><b>Hacked Clients</b></h4>
+<h4><b><center>Hacked Clients</center></b></h4>
 
 	<p>The mods listed below are permitted for use throughout Override.</p>
 	
