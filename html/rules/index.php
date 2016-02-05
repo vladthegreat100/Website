@@ -13,13 +13,13 @@
 <body>
     <h1>Rules</h1>
     <div>
-      <hr />
+      <hr width="75%" />
 
 <h4>These rules serve as a guideline for punishments for illegal actions, keep in mind that any staff member has the ability to soften or harden these punishments if they find it necessary. If you feel that you have been banned in-justly or would like to report somebody for breaking one of these rules, please <a href="http://kohi.net/support">send us a ticket</a>.</h4>
 
 <h4>Rules may be added or changed at any time. It is up to the players to keep up to date on these rules.</h4>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Information on Blacklists</h4>
 
@@ -29,7 +29,7 @@
 <li><p>Players who purchase  the limit of 2 unbans will be blacklisted if they are banned again.</p></li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Hacked Clients</h4>
 
@@ -39,7 +39,7 @@
 <li>First offense - Permanent Ban  </li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Lying to Staff Members</h4>
 
@@ -48,7 +48,7 @@
 Simple enough, do not lie to any staff member.</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>X-Ray/Radar</h4>
 
@@ -57,7 +57,7 @@ Simple enough, do not lie to any staff member.</li>
 <li>Second Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Any Other Unapproved Texture Packs and Mods</h4>
 
@@ -68,7 +68,7 @@ Simple enough, do not lie to any staff member.</li>
 <li>Second Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Auto Clickers</h4>
 
@@ -80,7 +80,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>First Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Macroing</h4>
 
@@ -90,7 +90,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>First Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Abuse or Exploit of a Bug or Glitch</h4>
 
@@ -101,7 +101,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>Second Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Block Glitching</h4>
 
@@ -112,7 +112,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>Second Offense - Scaling bans</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>DTR evasion</h4>
 
@@ -127,7 +127,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>All players involved will be banned, this includes faction admins/mods who were online at the time. You are not allowed to leave your faction in order to pvp and avoid dtr loss.</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Inappropriate Chat Content</h4>
 
@@ -142,7 +142,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>Players who we consider serial offenders (people who we find to be considerably toxic in chat) will be permanently muted</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Staff Disrespect</h4>
 
@@ -154,7 +154,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>This has become a big problem recently and it is not acceptable.</p>
 
-<hr />
+	<hr width="75%" /><hr />
 
 <h4>Death Threats/ Suicide jokes/Telling someone to kill themselves/Scamming</h4>
 
@@ -164,7 +164,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>Racism will not be tolerated, harassment of our players and staff will not be tolerated, and spamming will not be tolerated. Scamming i.e. promising any purchasable items (CS: GO items, server ranks etc.) in exchange for in game items (diamonds and whatever else it is you guys are too lazy to actually play the game and get) or to join a faction, with the intent of not following through is NOT allowed in chat. If you are seen doing this in chat you will be muted, how long you are muted is up to the admins. Use common sense when typing in chat. If it isn't something you'd say to someone's face, then it isn't something you should say here. Releasing personal information about players includes but is not limited to facebook/instagram accounts, phone number, skype names, addresses, or pictures. This will result in a temp/permban or a blacklist depending on the situation. To what extent the offender went to obtain the information is also a factor, if you they got your picture from a faction irl video don't expect us ban them for "doxing".</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Advertising of another Server</h4>
 
@@ -174,7 +174,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>First Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Playing On or Using Alternate Accounts</h4>
 
@@ -192,7 +192,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>Second Offense - 2 week ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>VPNS/Shared Accounts</h4>
 
@@ -201,7 +201,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li><p>Sharing accounts is a bannable offense. </p></li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Illegal Traps</h4>
 
@@ -213,7 +213,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>Third Offense - Permanent Ban</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>DDoSing/DoSing/Doxing</h4>
 
@@ -223,7 +223,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>First Offense - Blacklist (permanent ban with no ability to buy an unban)</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Cobble Monsters/Water Griefing/Bypass Faction protection</h4>
 
@@ -233,13 +233,13 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li>Scaling bans (starting at 3 days)</li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Inappropriate Names</h4>
 
 <p>Inappropriate names will be perm banned until the name is changed. This any name including the words "Nigger", "Faggot", "DDOS" or anything overly sexual. If you would like to get an approved alt in the meantime please let a member of staff know here - http://kohi.net/support</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Camping in Practice Servers</h4>
 
@@ -251,7 +251,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li><p>Third Offense - Scaling bans</p></li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Betraying</h4>
 
@@ -259,7 +259,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>If the betrayed items can be retrieved, staff will give them back to their original owners.</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Trading</h4>
 
@@ -276,7 +276,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <p>The only exception is ingame goods or services for other ingame goods or services.</p>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Hackusating in chat</h4>
 
@@ -291,7 +291,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 
 <h4>Rank transfers / Switching accounts are NOT allowed anymore.</h4>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Team Griefing</h4>
 
@@ -303,7 +303,7 @@ Keep in mind doing things like butterfly clicking can make your mouse double cli
 <li><p>Third Offense -  Up to the admins discretion</p></li>
 </ul>
 
-<hr />
+	<hr width="75%" />
 
 <h4>Allying on factions</h4>
 
