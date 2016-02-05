@@ -12,6 +12,9 @@
 	</head>
 <body>
 	<b>Hacked Clients</b>
+<div class="row">
+	<div class="span12">
+<ol>
 <b>The mods listed below are permitted for use throughout Override.</b>
 		1. Optifine
 		2. Gammabright
@@ -31,6 +34,9 @@
 		8. X-ray mods or texture packs
 		9. Mods that enhance player visibility (enlarged name tags)
 		10. Mods that enhance sprinting capabilities
+</ol>
+	</div>
+		</div>
 		<hr width="105%" />
 		<footer class="footer">
 			<div class="container">
