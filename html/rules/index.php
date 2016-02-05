@@ -20,24 +20,26 @@
 				</h2>
 			</div>
 		</div>
-      <hr width="100%" />
 		<div class="container">
-<h4>Information on Blacklists</h4>
+<h4><b>Information on Blacklists</b></h4>
 
 <ul>
-<li><p>Blacklists are entirely up to the admins discretion and can not be appealed.</p></li>
-<li><p>If you are blacklisted it means we do not want you on the Network, at all.</p></li>
-<li><p>Players who purchase  the limit of 2 unbans will be blacklisted if they are banned again.</p></li>
+	<li><p>Blacklists are entirely up to the admins discretion and can not be appealed.</p></li>
+	<li><p>If you are blacklisted it means we do not want you on the Network, at all.</p></li>
 </ul>
 
 	<hr width="75%" />
 
-<h4>Hacked Clients</h4>
+<h4><b>Hacked Clients</b></h4>
 
-<p>Any mod that changes the way a player interacts with the server is considered a hacked client. This contains things such as force field, click aimbot, flying, etc.</p>
-
+	<p>The mods listed below are permitted for use throughout Override.</p>
+	
 <ul>
-<li>First offense - Permanent Ban  </li>
+	<li>First offense - Permanent Ban  </li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
 </ul>
 
 	<hr width="75%" />
