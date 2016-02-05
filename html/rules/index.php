@@ -32,7 +32,7 @@
 
 <h4><b><center>Hacked Clients</center></b></h4>
 
-	<p>The mods listed below are permitted for use throughout Override.</p>
+	<p><i>The mods listed below are permitted for use throughout Override.</i></p>
 	
 <ul>
 	<li>Optifine</li>
@@ -43,7 +43,7 @@
 	<li>5zig PvP Modification</li>
 </ul>
 
-	<p>The mods listed below are strictly prohibited on the Override Network.</p>
+	<p><i>The mods listed below are strictly prohibited on the Override Network.</i></p>
 
 <ul>
 	<li>Sorting inventory mods</li>
@@ -57,19 +57,19 @@
 	<li>Mods that enhance player visibility (enlarged name tags)</li>
 	<li>Mods that enhance sprinting capabilities</li>
 	
-	<p><small> - First offense - Permanent Ban</small></p>
+	<p><small><i> - First offense - Permanent Ban</i></small></p>
 </ul>
 
 <h4><b><center>Lying to Staff Members</center></b></h4>
 	
-	<p><small> - First offense - Permanent Ban</small></p>
+	<p><small><i> - First offense - Permanent Ban</i></small></p>
 
 	<hr width="75%" />
 	
 <h4><b><center>X-Ray/Radar Members</center></b></h4>
 
-	<p><small> - First Offense - 14 day ban</small></p>
-	<p><small> - Second Offense - Scaling bans.</small></p>
+	<p><small><i> - First Offense - 14 day ban</i></small></p>
+	<p><small><i> - Second Offense - Scaling bans.</i></small></p>
 	
 	<hr width="75%" />
 
@@ -77,8 +77,8 @@
 
 	<p>Modifying your mouse in ANYWAY Is not allowed. Doing anything to make your mouse double click or click twice in one motion is not allowed Keep in mind doing things like butterfly clicking can make your mouse double click (click twice in one movement) and can get you banned</p>
 	
-	<p><small> - First Offense - 14 day ban</small></p>
-	<p><small> - Second Offense - Scaling bans.</small></p>
+	<p><small><i> - First Offense - 14 day ban</i></small></p>
+	<p><small><i> - Second Offense - Scaling bans.</i></small></p>
 	
     </div>
   
