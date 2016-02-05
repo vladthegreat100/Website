@@ -57,19 +57,19 @@
 	<li>Mods that enhance player visibility (enlarged name tags)</li>
 	<li>Mods that enhance sprinting capabilities</li>
 	
-	<p><small>ㅤㅤㅤㅤFirst offense - Permanent Ban</small></p>
+	<p><small> - First offense - Permanent Ban</small></p>
 </ul>
 
 <h4><b><center>Lying to Staff Members</center></b></h4>
 	
-	<p><small>ㅤㅤㅤㅤFirst offense - Permanent Ban</small></p>
+	<p><small> - First offense - Permanent Ban</small></p>
 
 	<hr width="75%" />
 	
 <h4><b><center>X-Ray/Radar Members</center></b></h4>
 
-	<p><small>ㅤㅤㅤㅤFirst Offense - 14 day ban</small></p>
-	<p><small>ㅤㅤㅤㅤSecond Offense - Scaling bans.</small></p>
+	<p><small> - First Offense - 14 day ban</small></p>
+	<p><small> - Second Offense - Scaling bans.</small></p>
 	
 	<hr width="75%" />
 
@@ -77,8 +77,8 @@
 
 	<p>Modifying your mouse in ANYWAY Is not allowed. Doing anything to make your mouse double click or click twice in one motion is not allowed Keep in mind doing things like butterfly clicking can make your mouse double click (click twice in one movement) and can get you banned</p>
 	
-	<p><small>ㅤㅤㅤㅤFirst Offense - 14 day ban</small></p>
-	<p><small>ㅤㅤㅤㅤSecond Offense - Scaling bans.</small></p>
+	<p><small> - First Offense - 14 day ban</small></p>
+	<p><small> - Second Offense - Scaling bans.</small></p>
 	
     </div>
   
