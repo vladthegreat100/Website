@@ -11,16 +11,16 @@
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	</head>
 <body>
-    <h1>Rules</h1>
-    <div>
+		<div class="container">
+			<div class="page-header">
+				<h2>
+					Rules
+					<small>These rules serve as a guideline for punishments for illegal actions</small>
+					</a>
+				</h2>
+			</div>
+		</div>
       <hr width="75%" />
-
-<h4>These rules serve as a guideline for punishments for illegal actions, keep in mind that any staff member has the ability to soften or harden these punishments if they find it necessary. If you feel that you have been banned in-justly or would like to report somebody for breaking one of these rules, please <a href="http://kohi.net/support">send us a ticket</a>.</h4>
-
-<h4>Rules may be added or changed at any time. It is up to the players to keep up to date on these rules.</h4>
-
-	<hr width="75%" />
-
 <h4>Information on Blacklists</h4>
 
 <ul>
