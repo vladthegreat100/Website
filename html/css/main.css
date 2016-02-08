@@ -32,7 +32,7 @@ a:hover,
 a:focus,
 a:visited,
 a:link {
-  color: #F4F4F4;
+  color: #000000;
 }
 html,
 body {
@@ -44,7 +44,7 @@ body {
   background: #FFFFFF url(../images/bg.png);
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  color: #F4F4F4;
+  color: #000000;
 }
 section {
   display: table-cell;
@@ -123,7 +123,7 @@ section div.details {
   margin: 0 auto;
   font-family: 'Fredoka One', cursive;
   font-size: 22px;
-  color: #F4F4F4;
+  color: #000000;
   font-weight: bold;
   padding: 20px 30px;
 }
