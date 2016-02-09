@@ -27,7 +27,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/f866f386-3d9d-493c-8de8-87b493cab8be?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/f866f386-3d9d-493c-8de8-87b493cab8be?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>alexanderjoe</b>
@@ -37,7 +37,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/8d071274-2984-4ff3-aa3a-17aba7e40887?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/8d071274-2984-4ff3-aa3a-17aba7e40887?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>vYuri</b>
@@ -47,7 +47,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Sayah</b>
@@ -57,7 +57,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Prodigy4532</b>
@@ -74,7 +74,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/f922df68-879a-4075-8b8e-086d313325bb?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/f922df68-879a-4075-8b8e-086d313325bb?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>_DC</b>
@@ -84,7 +84,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/f866f386-3d9d-493c-8de8-87b493cab8be?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/f866f386-3d9d-493c-8de8-87b493cab8be?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>alexanderjoe</b>
@@ -102,7 +102,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/4286b383-9fa8-497f-a42d-3fbd234e77d1?heml" width="96" height="96">
+							<img src="https://crafatar.com/avatars/4286b383-9fa8-497f-a42d-3fbd234e77d1?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Recnac</b>
@@ -112,7 +112,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/5e1794b8-48e1-4df4-9f26-bc42e2224e4c?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/5e1794b8-48e1-4df4-9f26-bc42e2224e4c?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Lewzz</b>
@@ -122,7 +122,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Acceqted</b>
@@ -132,7 +132,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/c42cae13-acf3-448e-be42-08b605b2ecf7?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/c42cae13-acf3-448e-be42-08b605b2ecf7?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Guaaaarz</b>
@@ -151,7 +151,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/e2602da2-0365-40dc-9cf1-55cf12b11aa8?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/e2602da2-0365-40dc-9cf1-55cf12b11aa8?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Vitalism</b>
@@ -161,7 +161,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/c58188cb-25d8-4d44-97b1-11a598917f1b?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/c58188cb-25d8-4d44-97b1-11a598917f1b?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>SnowSX3</b>
@@ -171,7 +171,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?body" width="96" height="96">
+							<img src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>JHPlays</b>
@@ -181,7 +181,7 @@
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
-						<img src="https://crafatar.com/avatars/135737b8-7f2b-4f90-aa37-ec395c7c6a9b?body" width="96" height="96">
+						<img src="https://crafatar.com/avatars/135737b8-7f2b-4f90-aa37-ec395c7c6a9b?helm" width="96" height="96">
 					</div>
 					<div class="text-center">
 						<b>ApolloIsFunky</b>
@@ -199,7 +199,7 @@
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
-						<img src="https://crafatar.com/avatars/d05a603c-3fdc-475a-be6c-8e4a10aa4da9?body" width="96" height="96">
+						<img src="https://crafatar.com/avatars/d05a603c-3fdc-475a-be6c-8e4a10aa4da9?helm" width="96" height="96">
 					</div>
 					<div class="text-center">
 						<b>S3A</b>
@@ -209,7 +209,7 @@
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
-						<img src="https://crafatar.com/avatars/e279c0b0-4c93-4797-981e-c92e593e579f?body" width="96" height="96">
+						<img src="https://crafatar.com/avatars/e279c0b0-4c93-4797-981e-c92e593e579f?helm" width="96" height="96">
 					</div>
 					<div class="text-center">
 						<b>Wimpinq</b>
@@ -219,7 +219,7 @@
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
-						<img src="https://crafatar.com/avatars/7d8938db-9d22-42e8-9532-69c7545baedb?body" width="96" height="96">
+						<img src="https://crafatar.com/avatars/7d8938db-9d22-42e8-9532-69c7545baedb?helm" width="96" height="96">
 					</div>
 					<div class="text-center">
 						<b>trisi2908</b>
@@ -229,7 +229,7 @@
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<a href="">
 					<div class="text-center">
-						<img src="https://crafatar.com/avatars/6c5d7783-27fd-4ac5-8a1d-ba35206edf53?body" width="96" height="96">
+						<img src="https://crafatar.com/avatars/6c5d7783-27fd-4ac5-8a1d-ba35206edf53?helm" width="96" height="96">
 					</div>
 					<div class="text-center">
 						<b>_Nathy</b>
