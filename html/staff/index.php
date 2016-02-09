@@ -65,6 +65,7 @@
 					</a>
 				</div>
 			</div>
+			<hr>
 			<!-- Dev -->
 			<h3 style="color:#194570">
 				Developers (2)
@@ -92,6 +93,7 @@
 				</div>
 			</div>
 			<!-- /Dev -->
+			<hr>
 			<!-- Senior Mod-->
 			<h3 style="color: #C63939">
 				Senior Moderators (4)
@@ -139,6 +141,7 @@
 				</div>
 			</div>
 			<!-- /Senior Mod -->
+			<hr>
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
 				Moderators (4)
@@ -187,6 +190,7 @@
 			</div>
 			</div>
 			<!-- /Mod -->
+			<hr>
 			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
 				Junior Moderators (4)
