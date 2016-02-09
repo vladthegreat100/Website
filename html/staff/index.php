@@ -240,7 +240,7 @@
 		<!-- /JrMod -->
 		</div>
 		<br></a>
-		<hr width="105%" />
+		<hr length="105%" />
 		<footer class="footer">
 			<div class="container">
 				<div class="pull-left">
