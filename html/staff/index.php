@@ -47,10 +47,10 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/8d071274-2984-4ff3-aa3a-17aba7e40887?helm" width="96" height="96">
+							<img src="https://crafatar.com/avatars/9bfbbb74-b016-4350-a401-d3d823ae10b1?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
-							<b>vYuri</b>
+							<b>Sulorak</b>
 						</div>
 					</a>
 				</div>
