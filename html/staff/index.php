@@ -14,7 +14,7 @@
 			<div class="page-header">
 				<h2>
 					Staff
-					<small>They help to run and maintain the Override Network</small>
+					<small>They help to run and maintain Override Network</small>
 					</a>
 				</h2>
 			</div>
