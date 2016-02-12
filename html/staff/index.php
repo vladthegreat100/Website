@@ -37,7 +37,7 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="96" height="96">
+							<img src="https://crafatar.com/avatars/28889c74-f739-4372-87a8-b965cd5f9d65" width="96" height="96">
 						</div>
 						<div class="text-center">
 							<b>Sayah</b>
