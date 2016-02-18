@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Override Network</title>
+		<link rel="stylesheet" type="text/css" href="./css/index.css">
 	</head>
 	<script language="JavaScript">
 		<!--
@@ -150,6 +151,7 @@
 			.popup_clickbar		{height:100%;width:83px;position:absolute;z-index:9999;cursor:pointer}
 			.popup_clickbar:hover		{background-color:rgba(255,255,255,0.2)}
 			.popup_clickbar:active	{background-color:rgba(100,100,100,0.2)}
+			.rulesa {text-decoration: none;color:white;}
 		</style>
 		<body>
 			<div class="wrap noise">
@@ -217,10 +219,13 @@
 							<a><a href="https://twitter.com/OverrideNet">
 							<img src="images\twitter.png" onmouseover="this.src='images/twitter.png';" height="35" width="35"></a>
 							</a></a>
+							<br>
+							<a class="rulesa" href="http://overridenetwork.net/rules/">Rules</a>
 						</div>
 						<br><br><br><br><br><br><br><br>
 						<!-- FOOTER CONTENT START -->
-						<table><font color="D8D8D8">Override Network &copy; 2016 - Created by </font><font color="00BFFF">vYuri</font></table>
+						<table><font color="D8D8D8">Override Network &copy; 2015-2016</table>
+						<br>
 						<!-- FOOTER CONTENT END -->
 					</div>
 				</div>

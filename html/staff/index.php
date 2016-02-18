@@ -47,16 +47,6 @@
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<a href="">
 						<div class="text-center">
-							<img src="https://crafatar.com/avatars/8d071274-2984-4ff3-aa3a-17aba7e40887?helm" width="96" height="96">
-						</div>
-						<div class="text-center">
-							<b>vYuri</b>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-					<a href="">
-						<div class="text-center">
 							<img src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="96" height="96">
 						</div>
 						<div class="text-center">
@@ -78,6 +68,16 @@
 						</div>
 						<div class="text-center">
 							<b>_DC</b>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/28889c74-f739-4372-87a8-b965cd5f9d65?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>Javipepe</b>
 						</div>
 					</a>
 				</div>
