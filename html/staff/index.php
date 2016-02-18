@@ -21,7 +21,7 @@
 		</div>
 		<div class="container">
 			<h3 style="color: #f89406">
-				Admins (4)
+				Admins (3)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -58,7 +58,7 @@
 			<hr>
 			<!-- Dev -->
 			<h3 style="color:#194570">
-				Developers (2)
+				Developers (3)
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
