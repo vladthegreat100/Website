@@ -43,7 +43,7 @@
 			<h1 style="text-align: center;">Sorry for the inconvenience,</h1>
 			<h2 style="text-align: center;">the page you are looking for does not exist or the server encounterd an error.</h2>
 			
-			<center><h5>Copyright 2015 - Override Network.</h5></center>
+			<center><h5>Copyright 2016 - Override Network.</h5></center>
 		</section>
 	</body>
 </html>
