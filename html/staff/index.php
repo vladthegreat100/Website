@@ -93,6 +93,7 @@
 						</div>
 					</a>
 				</div>
+				<div>
 					<a href="">
 						<div class="text-center">
 							<img src="https://crafatar.com/avatars/17ce9e57-0d93-4b20-8e28-6137d1634765?helm" width="96" height="96">
