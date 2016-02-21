@@ -21,7 +21,8 @@
 		</div>
 		<div class="container">
 			<h3 style="color: #f89406">
-				Admins (3)
+				Admins 
+		<small>3</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -58,7 +59,8 @@
 			<hr>
 			<!-- Dev -->
 			<h3 style="color:#194570">
-				Developers (3)
+				Developers 
+				<small>3</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -96,7 +98,8 @@
 			<hr>
 			<!-- Senior Mod-->
 			<h3 style="color: #C63939">
-				Senior Moderators (4)
+				Senior Moderators 
+				<small>4</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -144,7 +147,8 @@
 			<hr>
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators (4)
+				Moderators 
+				<small>4</small>
 			</h3>
 			<div class="row">
 
@@ -193,7 +197,8 @@
 			<hr>
 			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
-				Junior Moderators (4)
+				Junior Moderators 
+				<small>4</small>
 			</h3>
 			<div class="row">
 			<div class="col-md-2 col-sm-3 col-xs-6">
