@@ -60,7 +60,7 @@
 			<!-- Dev -->
 			<h3 style="color:#194570">
 				Developers 
-				<small>3</small>
+				<small>4</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -90,6 +90,15 @@
 						</div>
 						<div class="text-center">
 							<b>alexanderjoe</b>
+						</div>
+					</a>
+				</div>
+					<a href="">
+						<div class="text-center">
+							<img src="https://crafatar.com/avatars/17ce9e57-0d93-4b20-8e28-6137d1634765?helm" width="96" height="96">
+						</div>
+						<div class="text-center">
+							<b>SenseiTechUS</b>
 						</div>
 					</a>
 				</div>
