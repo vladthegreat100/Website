@@ -178,7 +178,6 @@
 									<a href="index.htm">
 									<img src="images\verde.png" height="35" width="35">
 									</a>
-									<p>
 								</div>
 								<center>
 									<font color="2E9AFE"><b>IP:</b></font>
@@ -222,9 +221,9 @@
 							<br>
 							<a class="rulesa" href="http://overridenetwork.net/rules/">Rules</a>
 						</div>
-						<br><br><br><br><br><br><br><br>
+						<br><br><br><br><br><br><br>
 						<!-- FOOTER CONTENT START -->
-						<table><font color="D8D8D8">Override Network &copy; 2015-2016</table>
+						<div><font color="D8D8D8">Override Network &copy; 2016</font></div>
 						<br>
 						<!-- FOOTER CONTENT END -->
 					</div>
