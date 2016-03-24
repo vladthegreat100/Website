@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Override #1</title>
+	<title>404 - Error</title>
 	<meta name="description" content="OverrideNetwork Test">
 	<meta name="keywords" content=" ">
 	<meta name="Author" content="CodedGuy and alexanderjoe">
@@ -22,19 +22,19 @@
 			</a>
 			<div id="right">
 				<a href="http://overridenetwork.net/">
-					<i class="fa fa-home"></i>
+					<i class="glyphicon glyphicon-home"></i>
 					Home
 				</a>
-				<a href="http://overridenetwork.net/forums/index.php">
-					<i class="fa fa-comments"></i>
+				<a href="http://overridenetwork.net/forums/">
+					<i class="glyphicon glyphicon-book"></i>
 					Forums
 				</a>
 				<a href="http://shop.overridenetwork.net/">
-					<i class="fa fa-shopping-cart"></i>
+					<i class="glyphicon glyphicon-shopping-cart"></i>
 					Shop
 				</a>
 				<a href="http://overridenetwork.net/404.php">
-					<i class="fa fa-user"></i>
+					<i class="glyphicon glyphicon-stats"></i>
 					Stats
 				</a>
 			</div>

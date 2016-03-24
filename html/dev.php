@@ -6,37 +6,36 @@
 	<meta name="keywords" content=" ">
 	<meta name="Author" content="CodedGuy and alexanderjoe">
 		
-	<link rel="stylesheet" href="./css/index.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/style.css" type="text/css" media="screen">
 		
-	<link rel="stylesheet" href="./css/font-awesome.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/font-awesome/css/font-awesome.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/font-awesome/css/font-awesome.min.css" type="text/css" media="screen">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
 </head>
 <body>
 	<div class="container">
-		<!-- NAV -->
+	<!-- NAV -->
 		<div class="navbar">
 			<a href="#" id="logo">
 				OverrideNetwork
 			</a>
 			<div id="right">
-				<a href="http://overridenetwork.net/">
-					<i class="glyphicon glyphicon-home"></i>
-					Home
+				<a href="#">
+					<i class="fa fa-home"></i>
+					Inicio
 				</a>
-				<a href="http://overridenetwork.net/forums/">
-					<i class="glyphicon glyphicon-book"></i>
-					Forums
+				<a href="#">
+					<i class="fa fa-comments"></i>
+					Foro
 				</a>
-				<a href="http://shop.overridenetwork.net/">
-					<i class="glyphicon glyphicon-shopping-cart"></i>
-					Shop
+				<a href="#">
+					<i class="fa fa-shopping-cart"></i>
+					Tienda
 				</a>
-				<a href="http://overridenetwork.net/404.php">
-					<i class="glyphicon glyphicon-stats"></i>
+				<a href="#">
+					<i class="fa fa-user"></i>
 					Stats
 				</a>
 			</div>
