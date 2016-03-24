@@ -48,6 +48,7 @@
 		<div class="right-box">
 			<div class="box">
 				<div id="title">Server status</div>
+					<p>
 					<?php
 						include_once 'inc/status.class.php'; //include the class
 						$status = new MinecraftServerStatus(); // call the class
@@ -59,9 +60,9 @@
    							echo "<br><b>Version: ".$response['version']."</b>";
    							echo "<br><b>IP: mc.overridenetwork.net</b>";
    							echo "<br><b>Online: ".$response['players']."/".$response['maxplayers']."</b>";
-   							echo "<br><b>PING: ".$response['ping']."</b>";
 						}
 					?>
+					</p>
 					<!-- Server status by https://github.com/FunnyItsElmo/PHP-Minecraft-Server-Status-Query/ -->	
 			</div>	
 		</div>
