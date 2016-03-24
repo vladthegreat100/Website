@@ -1,15 +1,15 @@
 <html>
 <head>
-	<title>404 - Error</title>
-	<meta name="description" content="OverrideNetwork Test">
+	<title>OverrideNetwork - Error</title>
+	<meta name="description" content="OverrideNetwork 404">
 	<meta name="keywords" content=" ">
 	<meta name="Author" content="CodedGuy and alexanderjoe">
 		
-	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="./css/index.css" type="text/css" media="screen">
 		
-	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/font-awesome/css/font-awesome.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://dreamcraft56.com/over/css/font-awesome/css/font-awesome.min.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7">
+	<link rel="stylesheet" href="./css/font-awesome.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
