@@ -56,19 +56,20 @@
 						if(!$response) {
     						echo"The Server is offline!";
 						} else {
-   							echo "<b>Server name: OverrideNetwork</b>";
-   							echo "<br><b>Version: ".$response['version']."</b>";
-   							echo "<br><b>IP: mc.overridenetwork.net</b>";
-   							echo "<br><b>Online: ".$response['players']."/".$response['maxplayers']."</b>";
+   							echo "Server name: OverrideNetwork";
+   							echo "<br>Version: ".$response['version'];
+   							echo "<br>IP: mc.overridenetwork.net";
+   							echo "<br>Online: ".$response['players']."/".$response['maxplayers'];
 						}
 					?>
 					</p>
 					<!-- Server status by https://github.com/FunnyItsElmo/PHP-Minecraft-Server-Status-Query/ -->	
 			</div>	
+			<br>	
 		</div>
 		<!-- END SERVER STATUS -->
 		<!-- FOOTER -->
-			<!-- TODO: FOOTER-->
+			<div class="footer"><span style="color:#27303a;font-size: 12pt;"> Override Network &copy; 2016</span></div>
 		<!-- END FOOTER -->
 	</div>
 </body>
