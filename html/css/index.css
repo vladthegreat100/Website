@@ -50,12 +50,14 @@ body {
 	margin-right: 1%;
 }
 .silder {
-	width: 98%;
+	width: 70%;
 	padding: 3px;
 	margin: 0px auto;
 	background: url('../img/silder.jpg');
 	height: 300px;
 	margin-top: 15px;
+	margin-bottom: 15px;
+	float: left;
 }
 .posts {
 	width: 59%;
