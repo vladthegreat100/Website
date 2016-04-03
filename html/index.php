@@ -35,9 +35,9 @@
 					<i class="glyphicon glyphicon-shopping-cart"></i>
 					Shop
 				</a>
-				<a href="http://overridenetwork.net/404.php">
-					<i class="glyphicon glyphicon-stats"></i>
-					Stats
+				<a href="http://overridenetwork.net/staff/">
+					<i class="glyphicon glyphicon-user"></i>
+					Staff
 				</a>
 			</div>
 		</div>
