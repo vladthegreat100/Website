@@ -159,7 +159,7 @@
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
 				Moderators 
-				<small>4</small>
+				<small>5</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
