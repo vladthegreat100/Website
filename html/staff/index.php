@@ -36,8 +36,8 @@
 					Shop
 				</a>
 				<a href="http://overridenetwork.net/404.php">
-					<i class="glyphicon glyphicon-stats"></i>
-					Stats
+					<i class="glyphicon glyphicon-user"></i>
+					Staff
 				</a>
 			</div>
 		</div>
@@ -192,6 +192,14 @@
 						</div>
 						<div class="text-center">
 							<b>_Nathy</b>
+						</div>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+						<div class="text-center">
+							<img class="img-rounded" src="http://avatar.baldricnetwork.com/helm/100/52f17be3-6450-405c-983c-1339f25a4f3f" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>SweetSorrow_</b>
 						</div>
 				</div>
 			</div>

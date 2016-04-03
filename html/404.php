@@ -36,8 +36,8 @@
 					Shop
 				</a>
 				<a href="http://overridenetwork.net/404.php">
-					<i class="glyphicon glyphicon-stats"></i>
-					Stats
+					<i class="glyphicon glyphicon-user"></i>
+					Staff
 				</a>
 			</div>
 		</div>
