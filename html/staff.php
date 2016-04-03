@@ -64,10 +64,10 @@
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6 img-rounded">
 						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/28889c74-f739-4372-87a8-b965cd5f9d65" width="100" height="100">
+							<img class="img-rounded" src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>Sayah</b>
+							<b>Sayaah</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -83,7 +83,7 @@
 			<!-- Dev -->
 			<h3 style="color:#194570">
 				Developers 
-				<small>4</small>
+				<small>3</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -111,14 +111,6 @@
 							<b>alexanderjoe</b>
 						</div>
 				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/17ce9e57-0d93-4b20-8e28-6137d1634765?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>SenseiTechUS</b>
-						</div>
-				</div>
 			</div>
 			<!-- /Dev -->
 			<hr>
@@ -130,35 +122,35 @@
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/4286b383-9fa8-497f-a42d-3fbd234e77d1?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>Recnac</b>
-						</div>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/5e1794b8-48e1-4df4-9f26-bc42e2224e4c?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>Lewzz</b>
-						</div>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>Acceqted</b>
-						</div>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
 							<img class="img-rounded" src="https://crafatar.com/avatars/c42cae13-acf3-448e-be42-08b605b2ecf7?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>Guaaaarz</b>
+							<b>W0R5</b>
 						</div>
+					</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<div class="text-center">
+						<img class="img-rounded" src="https://crafatar.com/avatars/4286b383-9fa8-497f-a42d-3fbd234e77d1?helm" width="100" height="100">
+					</div>
+					<div class="text-center">
+						<b>iRecnac</b>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<div class="text-center">
+						<img class="img-rounded" src="https://crafatar.com/avatars/5e1794b8-48e1-4df4-9f26-bc42e2224e4c?helm" width="100" height="100">
+					</div>
+					<div class="text-center">
+						<b>LEWZZ</b>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<div class="text-center">
+						<img class="img-rounded" src="https://crafatar.com/avatars/135737b8-7f2b-4f90-aa37-ec395c7c6a9b?helm" width="100" height="100">
+					</div>
+					<div class="text-center">
+						<b>ApolloIsFunky</b>
+					</div>
 				</div>
 			</div>
 			<!-- /Senior Mod -->
@@ -169,21 +161,20 @@
 				<small>4</small>
 			</h3>
 			<div class="row">
-
+				<div class="col-md-2 col-sm-3 col-xs-6">
+						<div class="text-center">
+							<img class="img-rounded" src="https://crafatar.com/avatars/38cc237d-9272-4e01-ad24-f5b0110130c1?helm" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>Acceqted</b>
+						</div>
+				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
 							<img class="img-rounded" src="https://crafatar.com/avatars/e2602da2-0365-40dc-9cf1-55cf12b11aa8?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>Vitalism</b>
-						</div>
-				</div>
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/c58188cb-25d8-4d44-97b1-11a598917f1b?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>SnowSX3</b>
+							<b>VITALISM</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -191,56 +182,32 @@
 							<img class="img-rounded" src="https://crafatar.com/avatars/66615a46-adea-4670-89e7-7314dd5be046?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>JHPlays</b>
+							<b>Asscheek</b>
 						</div>
 				</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-					<div class="text-center">
-						<img class="img-rounded" src="https://crafatar.com/avatars/135737b8-7f2b-4f90-aa37-ec395c7c6a9b?helm" width="100" height="100">
-					</div>
-					<div class="text-center">
-						<b>ApolloIsFunky</b>
-					</div>
-			</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+						<div class="text-center">
+							<img class="img-rounded" src="https://crafatar.com/avatars/6c5d7783-27fd-4ac5-8a1d-ba35206edf53?helm" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>_Nathy</b>
+						</div>
+				</div>
 			</div>
 			<!-- /Mod -->
 			<hr>
 			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
 				Junior Moderators 
-				<small>4</small>
+				<small>1</small>
 			</h3>
 			<div class="row">
-			<div class="col-md-2 col-sm-3 col-xs-6">
-					<div class="text-center">
-						<img class="img-rounded" src="https://crafatar.com/avatars/d05a603c-3fdc-475a-be6c-8e4a10aa4da9?helm" width="100" height="100">
-					</div>
-					<div class="text-center">
-						<b>S3A</b>
-					</div>
-			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 					<div class="text-center">
 						<img class="img-rounded" src="https://crafatar.com/avatars/e279c0b0-4c93-4797-981e-c92e593e579f?helm" width="100" height="100">
 					</div>
 					<div class="text-center">
 						<b>Wimpinq</b>
-					</div>
-			</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-					<div class="text-center">
-						<img class="img-rounded" src="https://crafatar.com/avatars/7d8938db-9d22-42e8-9532-69c7545baedb?helm" width="100" height="100">
-					</div>
-					<div class="text-center">
-						<b>trisi2908</b>
-					</div>
-			</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-					<div class="text-center">
-						<img class="img-rounded" src="https://crafatar.com/avatars/6c5d7783-27fd-4ac5-8a1d-ba35206edf53?helm" width="100" height="100">
-					</div>
-					<div class="text-center">
-						<b>_Nathy</b>
 					</div>
 			</div>
 		</div>
@@ -250,7 +217,7 @@
 <br>
 		
 		<!-- FOOTER -->
-			<div class="footer"><span style="color:#27303a;font-size: 12pt;"> Override Network © 2016</span></div>
+			<div class="footer"><span style="color:#27303a;font-size: 12pt;"> Override Network &copy; 2016</span></div>
 		<!-- END FOOTER -->
 	</div>
 
