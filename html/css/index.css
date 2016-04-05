@@ -116,7 +116,21 @@ body {
 	padding-top: 5px;
 	text-align: center;
 }
+.footer-nav {
+	border-radius: 5px;
+	height: 15px;
+	width: 2%;
+	background-color: #ededed;.
+		margin: 0px auto;
+}
 a {
 	text-decoration: none;
 	color: #808080;
+}
+.align-center {
+	text-align: center;
+}
+.well {
+	border-radius: 5px;
+	background-color: #dcdbdb;
 }
