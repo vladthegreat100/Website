@@ -70,7 +70,7 @@
 		</div>
 		<!-- END SERVER STATUS -->
 		<!-- FOOTER -->
-			<?php include"/inc/footer.php"; ?>
+			<?php include"./inc/footer.php"; ?>
 		<!-- END FOOTER -->
 	</div>
 </body>
