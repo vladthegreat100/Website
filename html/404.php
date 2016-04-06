@@ -48,10 +48,9 @@
 		<p style="align: center;font-size: 20pt;">Sorry, our server must have had an error or the page you are looking for does not exist!</p>
 	</div>
 	<!-- CONTENT END -->
-	<!-- START FOOTER -->
-		<div style="text-align: center;">Override Network &copy; 2016</div>
-		<br>
-	<!-- END FOOTER-->
+		<!-- FOOTER -->
+			<?php include"/inc/footer.php"; ?>
+		<!-- END FOOTER -->
 	</div>
 </body>
 </html>

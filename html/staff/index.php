@@ -226,7 +226,7 @@
 <br>
 		
 		<!-- FOOTER -->
-			<div class="footer"><span style="color:#27303a;font-size: 12pt;"> Override Network &copy; 2016</span></div>
+			<?php include"../inc/footer.php"; ?>
 		<!-- END FOOTER -->
 	</div>
 
