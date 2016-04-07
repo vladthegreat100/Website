@@ -7,6 +7,8 @@
 	<meta name="Author" content="CodedGuy and alexanderjoe">
 		
 	<link rel="stylesheet" href="../css/index.css" type="text/css" media="screen">
+	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
 		
 	<link rel="stylesheet" href="../css/font-awesome.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css" media="screen">
@@ -47,9 +49,7 @@
 		<!-- END TOS -->	
 
 		<!-- FOOTER -->
-			<div class="footer">
-			<span style="color:#27303a;font-size: 12pt;"> Override Network &copy; 2016</span>
-			</div>
+			<?php include"../inc/footer.php"; ?>
 		<!-- END FOOTER -->
 	</div>
 </body>

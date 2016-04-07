@@ -7,6 +7,7 @@
 	<meta charset="utf-8">
 		
 	<link rel="stylesheet" href="../css/index.css" type="text/css" media="screen">
+	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 		
 	<link rel="stylesheet" href="../css/font-awesome.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css" media="screen">
