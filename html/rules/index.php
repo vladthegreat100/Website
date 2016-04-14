@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>OverrideNetwork - Rules</title>
-	<meta name="description" content="OverrideNetwork Home">
+	<meta name="description" content="OverrideNetwork - Rules">
 	<meta name="keywords" content=" ">
 	<meta name="Author" content="CodedGuy and alexanderjoe">
-	<meta name="viewport" content='width=700'>
+	<meta name="viewport" content="width=800">
 		
 	<link rel="stylesheet" href="../css/index.css" type="text/css" media="screen">
 	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>

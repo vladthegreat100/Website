@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html><head>
-	<title>Staff » OverrideNetwork</title>
-	<meta name="description" content="OverrideNetwork Home">
+	<title>OverrideNetwork - Staff</title>
+	<meta name="description" content="OverrideNetwork - Staff">
 	<meta name="keywords" content=" ">
-	<meta name="Author" content="CodedGuy">
+	<meta name="Author" content="CodedGuy and alexanderjoe">
+	<meta name="viewport" content="width=800">
 	<meta charset="utf-8">
 		
 	<link rel="stylesheet" href="../css/index.css" type="text/css" media="screen">
