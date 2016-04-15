@@ -8,6 +8,7 @@
 	<meta name="viewport" content="width=800">
 		
 	<link rel="stylesheet" href="./css/index.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="./css/custom-baldrick.css" type="text/css" media="screen">
 	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 		
 	<link rel="stylesheet" href="./css/font-awesome.css" type="text/css" media="screen">
@@ -23,31 +24,7 @@
 			<?php include"./inc/nav.php"; ?>
 		<!-- END NAV -->
 		<div class="silder"> </div>
-		
-		<!-- SERVER STATUS -->
-		<div class="right-box">
-			<div class="box">
-				<div id="title">Server status</div>
-					<p>
-					<?php
-						include_once 'inc/status.class.php'; //include the class
-						$status = new MinecraftServerStatus(); // call the class
-						$response = $status->getStatus('mc.overridenetwork.net');
-						if(!$response) {
-    						echo"The Server is offline!";
-						} else {
-   							echo "Server name: OverrideNetwork";
-   							echo "<br>Version: ".$response['version'];
-   							echo "<br>IP: mc.overridenetwork.net";
-   							echo "<br>Online: ".$response['players']."/".$response['maxplayers'];
-						}
-					?>
-					</p>
-					<!-- Server status by https://github.com/FunnyItsElmo/PHP-Minecraft-Server-Status-Query/ -->	
-			</div>	
-			<br>	
-		</div>
-		<!-- END SERVER STATUS -->
+
 		<!-- FOOTER -->
 			<?php include"./inc/footer.php"; ?>
 		<!-- END FOOTER -->
