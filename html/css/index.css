@@ -58,7 +58,17 @@ body {
 	margin-top: 15px;
 	margin-bottom: 15px;
 	float: left;
+	border-radius: 5px;
 }
+.market {
+	width: 100%;
+ 	background-image: url("../img/market.png");
+	margin-top: 15px;
+	margin-bottom: 15px;
+	float: left;
+	border-radius: 5px;
+}
+
 .posts {
 	width: 59%;
 	margin-left: 1%;

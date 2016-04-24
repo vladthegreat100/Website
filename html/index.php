@@ -24,6 +24,7 @@
 			<?php include"./inc/nav.php"; ?>
 		<!-- END NAV -->
 		<div class="silder"> </div>
+		<img style="width: 100%; height: 260px;" src="./img/market.png">
 
 		<!-- FOOTER -->
 			<?php include"./inc/footer.php"; ?>
