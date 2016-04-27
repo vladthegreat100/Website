@@ -25,7 +25,7 @@
 					<i class="fa fa-home"></i>
 					Home
 				</a>
-				<a href="/Forum-Web/forums">
+				<a href="http://overridenetwork.net/test/forums">
 					<i class="fa fa-comments"></i>
 					Forums
 				</a>
