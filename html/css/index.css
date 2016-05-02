@@ -60,6 +60,13 @@ body {
 	float: left;
 	border-radius: 5px;
 }
+.greeting {
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	clear: both;
+	font-size: 15pt;
+}
 .market {
 	width: 100%;
  	background-image: url("../img/market.png");
@@ -119,6 +126,10 @@ body {
 	text-align: center;
 }
 .well {
+	border-radius: 5px;
+	background-color: #dcdbdb;
+}
+.well-g {
 	border-radius: 5px;
 	background-color: #dcdbdb;
 }
