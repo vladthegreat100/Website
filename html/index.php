@@ -4,6 +4,7 @@
 	<title>OverrideNetwork - Home</title>
 	<meta name="description" content="OverrideNetwork Home">
 	<meta name="keywords" content=" ">
+	<meta charset="utf8">
 	<meta name="Author" content="CodedGuy and alexanderjoe">
 	<meta name="viewport" content="width=800">
 
