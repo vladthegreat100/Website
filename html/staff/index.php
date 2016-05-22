@@ -6,16 +6,16 @@
 	<meta name="Author" content="CodedGuy and alexanderjoe">
 	<meta name="viewport" content="width=800">
 	<meta charset="utf-8">
-		
+
 	<link rel="stylesheet" href="../css/index.css" type="text/css" media="screen">
 	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-		
+
 	<link rel="stylesheet" href="../css/font-awesome.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
 	<div class="container">
@@ -26,12 +26,12 @@
 			<div class="page-header">
 				<h2>
 					Staff
-					<small>They help to run and maintain Override Network</small>					
+					<small>They help to run and maintain Override Network</small>
 				</h2>
 			</div>
 	<div id="staff">
 			<h3 style="color: #f89406">
-				Admins 
+				Admins
 		<small>3</small>
 			</h3>
 			<div class="row">
@@ -48,7 +48,7 @@
 							<img class="img-rounded" src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>Sayaah</b>
+							<b>TwentyOneSayah</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -63,8 +63,8 @@
 			<hr>
 			<!-- Dev -->
 			<h3 style="color:#194570">
-				Developers 
-				<small>3</small>
+				Developers
+				<small>2</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -73,15 +73,6 @@
 						</div>
 						<div class="text-center">
 							<b>_DC</b>
-						</div>
-				</div>
-  
-				<div class="col-md-2 col-sm-3 col-xs-6">
-						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/28889c74-f739-4372-87a8-b965cd5f9d65?helm" width="100" height="100">
-						</div>
-						<div class="text-center">
-							<b>Javipepe</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -97,7 +88,7 @@
 			<hr>
 			<!-- Senior Mod-->
 			<h3 style="color: #C63939">
-				Senior Moderators 
+				Senior Moderators
 				<small>1</small>
 			</h3>
 			<div class="row">
@@ -114,7 +105,7 @@
 			<hr>
 			<!-- Mod -->
 			<h3 style="color: #ADD8E3">
-				Moderators 
+				Moderators
 				<small>2</small>
 			</h3>
 			<div class="row">
@@ -139,18 +130,18 @@
 			<hr>
 			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
-				Junior Moderators 
+				Junior Moderators
 				<small>0</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 			</div>
 		</div>
-		
+
 	</div>
 	</section>
 <br>
-		
+
 		<!-- FOOTER -->
 			<?php include"../inc/footer.php"; ?>
 		<!-- END FOOTER -->
