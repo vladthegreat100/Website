@@ -32,7 +32,7 @@
 		<!-- END GREETING-->
 			<br>
 		<!-- Server Info-->
-			<div class="greeting well-g">
+			<div class="info well-g">
 				<h2>» Server Info «</h2>
 				<p>Server Address » <b>mc.overridenetwork.net</b></p>
 				<p>Temaspeak Address » <b>ts.overridenetwork.net</b></p>

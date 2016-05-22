@@ -42,9 +42,6 @@ body {
 .navbar #login {
 	color: #1a830f;
 }
-.navbar #register {
-	color: #d95a05;
-}
 .navbar #right {
 	float: right;
 	margin-right: 1%;
@@ -61,6 +58,13 @@ body {
 	border-radius: 5px;
 }
 .greeting {
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	clear: both;
+	font-size: 15pt;
+}
+.info {
 	text-align: center;
 	padding-bottom: 5px;
 	padding-top: 5px;
