@@ -147,11 +147,18 @@
 			<!-- JrMod -->
 			<h3 style="color: #CC2EFA">
 				Junior Moderators
-				<small>0</small>
+				<small>1</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
-			</div>
+						<div class="text-center">
+							<img class="img-rounded" src="https://crafatar.com/avatars/022321a8-578b-4438-b035-8a3ca735639f?helm" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>nintendoboy11</b>
+						</div>
+				</div>
+			<!-- END JrMod -->
 		</div>
 
 	</div>
