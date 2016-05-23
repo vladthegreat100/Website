@@ -67,7 +67,6 @@
 							<b>Wulfcaspice</b>
 						</div>
 				</div>
-			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 					<div class="text-center">
 						<img class="img-rounded" src="https://crafatar.com/avatars/02096be1-0c14-490a-ac69-b84de30cce84?helm" width="100" height="100">
