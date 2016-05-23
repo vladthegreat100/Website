@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html><head>
+<html>
+<head>
 	<title>OverrideNetwork - Staff</title>
 	<meta name="description" content="OverrideNetwork - Staff">
 	<meta name="keywords" content=" ">
@@ -22,18 +23,15 @@
 		<!-- NAV -->
 			<?php include"../inc/nav.php"; ?>
 		<!-- END NAV -->
-<section>
-			<div class="page-header">
-				<h2>
-					Staff
-					<small>They help to run and maintain Override Network</small>
-				</h2>
-			</div>
-	<div id="staff">
-			<h3 style="color: #f89406">
-				Admins
-		<small>5</small>
-			</h3>
+		<!-- Header -->
+		<div class="page-header">
+			<h2>Staff <small>They help to run and maintain Override Network</small></h2>
+		</div>
+		<!-- End Header -->
+		<!-- Staff -->
+		<div id="staff">
+			<!-- Admins -->
+			<h3 style="color: #f89406">Admins <small>5</small></h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
@@ -67,21 +65,19 @@
 							<b>Wulfcaspice</b>
 						</div>
 				</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-					<div class="text-center">
-						<img class="img-rounded" src="https://crafatar.com/avatars/02096be1-0c14-490a-ac69-b84de30cce84?helm" width="100" height="100">
-					</div>
-					<div class="text-center">
-						<b>vladthegreat100</b>
-					</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+						<div class="text-center">
+							<img class="img-rounded" src="https://crafatar.com/avatars/02096be1-0c14-490a-ac69-b84de30cce84?helm" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>vladthegreat100</b>
+						</div>
+				</div>
 			</div>
-		</div>
+			<!-- End Admins -->
 			<hr>
 			<!-- Dev -->
-			<h3 style="color:#194570">
-				Developers
-				<small>2</small>
-			</h3>
+			<h3 style="color:#194570">Developers <small>2</small></h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
@@ -100,13 +96,10 @@
 						</div>
 				</div>
 			</div>
-			<!-- /Dev -->
+			<!-- End Dev -->
 			<hr>
-			<!-- Senior Mod-->
-			<h3 style="color: #C63939">
-				Senior Moderators
-				<small>1</small>
-			</h3>
+			<!-- SrMod -->
+			<h3 style="color: #C63939">Senior Moderators <small>2</small></h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 					<div class="text-center">
@@ -116,14 +109,19 @@
 						<b>ApolloIsFunky</b>
 					</div>
 				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+					<div class="text-center">
+						<img class="img-rounded" src="https://crafatar.com/avatars/2d6f7910-0ad9-4d87-b528-5beb41c150ce?helm" width="100" height="100">
+					</div>
+					<div class="text-center">
+						<b>Kyoal</b>
+					</div>
+				</div>
 			</div>
-			<!-- /Senior Mod -->
+			<!-- End SrMod -->
 			<hr>
 			<!-- Mod -->
-			<h3 style="color: #ADD8E3">
-				Moderators
-				<small>2</small>
-			</h3>
+			<h3 style="color: #ADD8E3">Moderators <small>2</small></h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
@@ -142,13 +140,10 @@
 						</div>
 				</div>
 			</div>
-			<!-- /Mod -->
+			<!-- End Mod -->
 			<hr>
 			<!-- JrMod -->
-			<h3 style="color: #CC2EFA">
-				Junior Moderators
-				<small>1</small>
-			</h3>
+			<h3 style="color: #CC2EFA">Junior Moderators <small>1</small></h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
 						<div class="text-center">
@@ -158,16 +153,13 @@
 							<b>nintendoboy11</b>
 						</div>
 				</div>
-			<!-- END JrMod -->
+			<!-- End JrMod -->
 		</div>
-
-	</div>
-	</section>
-<br>
-
+		<!-- End Staff -->
+		<br>
 		<!-- FOOTER -->
 			<?php include"../inc/footer.php"; ?>
 		<!-- END FOOTER -->
 	</div>
-
-</body></html>
+</body>
+</html>

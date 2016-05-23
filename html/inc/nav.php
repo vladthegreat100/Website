@@ -1,4 +1,3 @@
-<!-- NAV -->
 <div class="navbar">
 	<a href="#" id="logo">
 		OverrideNetwork
@@ -22,4 +21,3 @@
 		</a>
 	</div>
 </div>
-<!-- END NAV -->
