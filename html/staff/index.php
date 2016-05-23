@@ -32,7 +32,7 @@
 	<div id="staff">
 			<h3 style="color: #f89406">
 				Admins
-		<small>3</small>
+		<small>5</small>
 			</h3>
 			<div class="row">
 				<div class="col-md-2 col-sm-3 col-xs-6">
@@ -59,7 +59,24 @@
 							<b>Prodigy4532</b>
 						</div>
 				</div>
+				<div class="col-md-2 col-sm-3 col-xs-6">
+						<div class="text-center">
+							<img class="img-rounded" src="https://crafatar.com/avatars/d9b4ffbc-11d0-453a-a93f-82dc59fca4b6?helm" width="100" height="100">
+						</div>
+						<div class="text-center">
+							<b>Wulfcaspice</b>
+						</div>
+				</div>
 			</div>
+			<div class="col-md-2 col-sm-3 col-xs-6">
+					<div class="text-center">
+						<img class="img-rounded" src="https://crafatar.com/avatars/02096be1-0c14-490a-ac69-b84de30cce84?helm" width="100" height="100">
+					</div>
+					<div class="text-center">
+						<b>vladthegreat100</b>
+					</div>
+			</div>
+		</div>
 			<hr>
 			<!-- Dev -->
 			<h3 style="color:#194570">
