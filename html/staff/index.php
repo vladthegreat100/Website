@@ -43,10 +43,10 @@
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6 img-rounded">
 						<div class="text-center">
-							<img class="img-rounded" src="https://crafatar.com/avatars/7fd3b7f7-37e4-4c55-a214-878986207576?helm" width="100" height="100">
+							<img class="img-rounded" src="https://crafatar.com/avatars/8d071274-2984-4ff3-aa3a-17aba7e40887?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>TwentyOneSayah</b>
+							<b>vYuri</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
