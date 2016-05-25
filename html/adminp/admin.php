@@ -19,15 +19,12 @@ if(isset($_SESSION['id'])) {
 <body>
 	<div class="container"><br>
 		<div class="well">
-	
-			<?php 
-			exec('/root/Servers/./restartServers.sh'); 
-			echo "Executing: /root/Servers/restartServers.sh";
-			?>
 
+			<!-- Logout -->
 			<form action="logout.php">
 				<input class="btn btn-lg btn-primary btn-block" type="submit" value="Logout"> </input>
 			</form>
+			<!-- End Logout -->
 		</div>
 	
 
