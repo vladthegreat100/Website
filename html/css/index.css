@@ -31,9 +31,9 @@ body {
 	color: #000000;
 	padding: 10px 10px;
 	font-size: 16px;
-	font-family: lucida sans;
+	font-family: sans-serif;
 	font-variant: small-caps;
-	font-weight: bold;
+	font-style: normal;
 }
 .navbar a:hover {
 	color: #a9a9a9;
