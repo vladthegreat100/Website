@@ -28,17 +28,17 @@
 <big></big>
 	</div>
 </div>
-
 		<!-- END Server Info-->
-		<hr>
-			<br>
-<div class="footer">
-	<p class="footer-copyright">Override Network &copy; 2016</p>
-		<a class="footer-nav" href="http://overridenetwork.net/tos/">Terms of Service</a>
-		<a class="footer-nav" href="http://overridenetwork.net/rules/">Rules</a><br>
-		<div class="support">
-			<p>Need support, email us at support@overridenetwork.net</p>
-		</div>
-</div>
+ 		
+ 		<div class="home-image"> </div>		
+ 		
+ 		<!-- GREETING-->		
+ 			<?php include"./inc/greeting.php"; ?>		
+ 		<!-- END GREETING-->		
+ 			<br>		
+  			<br>		  			<br>
+ 		<!-- FOOTER -->		 +<div class="footer">
+ 			<?php include"./inc/footer.php"; ?>		 +	<p class="footer-copyright">Override Network &copy; 2016</p>
+ 		<!-- END FOOTER -->
 	</body>
 </html>
