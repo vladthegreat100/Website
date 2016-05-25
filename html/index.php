@@ -1,7 +1,7 @@
 <html>
 <head>
-	<title>OverrideNetwork - Home</title>
-	<meta name="description" content="OverrideNetwork Home">
+	<title>OverrideNetwork - Tournaments</title>
+	<meta name="description" content="OverrideNetwork Tournaments">
 	<meta name="keywords" content=" ">
 	<meta charset="utf8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,13 +16,9 @@
 </head>
 <body>
 			<br>
-<div class="footer">
-	<p class="footer-copyright">Override Network &copy; 2016</p>
-		<a class="footer-nav" href="http://overridenetwork.net/tos/">Terms of Service</a>
-		<a class="footer-nav" href="http://overridenetwork.net/rules/">Rules</a><br>
-		<div class="support">
-			<p>Need support, email us at support@overridenetwork.net</p>
-		</div>
+		<!-- FOOTER -->
+			<?php include"./inc/footer.php"; ?>
+		<!-- END FOOTER -->
 </div>
 	</div>
 </body>
