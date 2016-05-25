@@ -19,15 +19,6 @@
  			<?php include"./inc/nav.php"; ?>		
  		<!-- END NAV -->		
  		<div class="home-image"> </div>	
- 		<div class="jumbotron main masthead">
-			<div class="container">
-	<h1>Override Network</h1>
-		<p>We like pvp like you lol xxddxdxdxdxxddxxxxxd</p>
-		<a class="btn btn-primary btn-lg" href="/play">Play Now »</a>
-	</div>
-</div>
- 		
- 		
  		<!-- GREETING-->		
  			<?php include"./inc/greeting.php"; ?>		
  		<!-- END GREETING-->		
