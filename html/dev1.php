@@ -31,10 +31,6 @@
 		<!-- END Server Info-->
  		
  		<div class="home-image"> </div>		
- 		
- 		<!-- GREETING-->		
- 			<?php include"./inc/greeting.php"; ?>		
- 		<!-- END GREETING-->		
  			<br>		
   			<br>		  			<br>
  		<!-- FOOTER -->		 +<div class="footer">
