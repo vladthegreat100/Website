@@ -1,8 +1,4 @@
 <div class="greeting well-g">
+		<img src='http://overridenetwork.net/forums/styles/logo.png' style='float: right;'/>
 	<p><h2>Welcome to Override Network!</h2>We offer a few different here gamemodes such as Desta, HCF, and Practice. Since the network is still in beta gamemodes can and will have bugs so dont forget to report them!</p>
 </div>
-
-<div id='container'>
- 	<img src='http://overridenetwork.net/forums/styles/logo.png' style='float: right;'/>
- 		<p>Welcome to Override Network! We offer a few different here gamemodes such as Desta, HCF, and Practice. Since the network is still in beta gamemodes can and will have bugs so dont forget to report them!</p>
-	</div>
