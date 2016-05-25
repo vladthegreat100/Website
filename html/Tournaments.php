@@ -34,7 +34,7 @@
  			<br>		
   			<br>		  			<br>
  		<!-- FOOTER -->		 +<div class="footer">
- 			<?php include"./inc/footer.php"; ?>		 +	<p class="footer-copyright">Override Network &copy; 2016</p>
+ 			<?php include"./inc/footer.php"; ?>
  		<!-- END FOOTER -->
 	</body>
 </html>
