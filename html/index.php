@@ -1,7 +1,7 @@
 <html>
 <head>
-	<title>OverrideNetwork - Tournaments</title>
-	<meta name="description" content="OverrideNetwork Tournaments">
+	<title>OverrideNetwork - Home</title>
+	<meta name="description" content="OverrideNetwork Home">
 	<meta name="keywords" content=" ">
 	<meta charset="utf8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,6 +35,6 @@
  		<!-- END Server Info-->		
   			<br>		  			<br>
  		<!-- FOOTER -->		 +<div class="footer">
- 			<?php include"./inc/footer.php"; ?>		 +	<p class="footer-copyright">Override Network &copy; 2016</p>
+ 			<?php include"./inc/footer.php"; ?>
  		<!-- END FOOTER -->
 </html>
