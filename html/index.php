@@ -15,29 +15,15 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container">
-		<!-- NAV -->
-			<?php include"./inc/nav.php"; ?>
-		<!-- END NAV -->
-		<div class="home-image"> </div>
-
-
-		<!-- GREETING-->
-			<?php include"./inc/greeting.php"; ?>
-		<!-- END GREETING-->
 			<br>
-		<!-- Server Info-->
-			<div class="info well-g">
-				<h2>» Server Info «</h2>
-				<p>Server Address » <b>mc.overridenetwork.net</b></p>
-				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
-			</div>
-
-		<!-- END Server Info-->
-			<br>
-		<!-- FOOTER -->
-			<?php include"./inc/footer.php"; ?>
-		<!-- END FOOTER -->
+<div class="footer">
+	<p class="footer-copyright">Override Network &copy; 2016</p>
+		<a class="footer-nav" href="http://overridenetwork.net/tos/">Terms of Service</a>
+		<a class="footer-nav" href="http://overridenetwork.net/rules/">Rules</a><br>
+		<div class="support">
+			<p>Need support, email us at support@overridenetwork.net</p>
+		</div>
+</div>
 	</div>
 </body>
 </html>
