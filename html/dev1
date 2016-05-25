@@ -1,7 +1,7 @@
 <html>
 <head>
-	<title>OverrideNetwork - Home</title>
-	<meta name="description" content="OverrideNetwork Home">
+	<title>OverrideNetwork - Tournaments</title>
+	<meta name="description" content="OverrideNetwork Tournaments">
 	<meta name="keywords" content=" ">
 	<meta charset="utf8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,12 +22,9 @@
 		<div class="home-image"> </div>
 
 
-		<!-- GREETING-->
-			<?php include"./inc/greeting.php"; ?>
-		<!-- END GREETING-->
 			<br>
 		<!-- Server Info-->
-			<div class="info well-g">
+			<div class="info well-f">
 				<h2>» Server Info «</h2>
 				<p>Server Address » <b>mc.overridenetwork.net</b></p>
 				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
