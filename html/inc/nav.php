@@ -1,6 +1,6 @@
 <div class="navbar">
 	<a href="#" id="logo">
-		OverrideNetwork
+		Override Network
 	</a>
 	<div id="right">
 		<a href="http://overridenetwork.net/">
