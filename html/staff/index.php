@@ -54,7 +54,7 @@
 							<img class="img-rounded" src="https://crafatar.com/avatars/1c898c77-b0cc-474a-8ce4-b5521f2b18e7?helm" width="100" height="100">
 						</div>
 						<div class="text-center">
-							<b>Prodigy4532</b>
+							<b>ProdigyTheHotty</b>
 						</div>
 				</div>
 				<div class="col-md-2 col-sm-3 col-xs-6">
