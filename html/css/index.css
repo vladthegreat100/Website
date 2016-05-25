@@ -30,7 +30,7 @@ body {
 .navbar a {
 	color: #E7F6FC;
 	padding: 10px 10px;
-	font-style: tahoma;
+	font-style: sans-serif;
 	font-size: 16px;
 }
 .navbar a:hover {
