@@ -24,12 +24,12 @@
 
 			<br>
 		<!-- Server Info-->
-			<div class="info well-f">
- 				<h3 align="left">ABOUT US</h3>
- 				<h4 align="left">A Minecraft PvP server dedicated to some of the most intense and competitive environments available, providing only the best matches, community, and staff.</h3>
- 				<p>Server Address » <b>mc.overridenetwork.net</b></p>
- 				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
-			</div>
+<div class="span12" style="text-align: center; margin-top: 24px;">
+	<div class="alert alert-danger">
+		Registration closed
+<big></big>
+	</div>
+</div>
 
 		<!-- END Server Info-->
 			<br>
