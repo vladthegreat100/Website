@@ -68,21 +68,27 @@
 	</div>
 <div class="clearfix visible-xs-block" style="padding-bottom: 20px;"></div>
 <div class="col-md-2 col-sm-4 col-xs-6">
-<ul class="nav nav-pills nav-stacked">
-<li class="heading">
-Organization
-</li>
-<li>
-<a href="/staff">Staff Listing</a>
-</li>
-<li>
-<a href="/revisions">Development Logs</a>
-</li>
-<li>
-<a href="https://github.com/OvercastNetwork/Issues">Report a Bug</a>
-</li>
-</ul>
-</div>
+	<ul class="nav nav-pills nav-stacked">
+		<li class="heading">
+		Our Directors
+	</li>
+		<li>
+		<a href="">alexanderjoe10</a>
+	</li>
+		<li>
+		<a href="">Wulfcaspice</a>
+	</li>
+		<li>
+		<a href="">Prodigy4532</a>
+	</li>
+		<li>
+		<a href="">vladthegreat100</a>
+	</li>
+		<li>
+		<a href="">vYuri</a>
+	</li>
+		</ul>
+	</div>
 <div class="clearfix visible-sm-block" style="padding-bottom: 20px;"></div>
 <div class="col-md-2 col-sm-4 col-xs-6">
 <ul class="nav nav-pills nav-stacked">
