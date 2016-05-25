@@ -14,12 +14,27 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
-<body>
-			<br>
-		<!-- FOOTER -->
-			<?php include"./inc/footer.php"; ?>
-		<!-- END FOOTER -->
-</div>
-	</div>
-</body>
+<div class="container">		
+ 		<!-- NAV -->		
+ 			<?php include"./inc/nav.php"; ?>		
+ 		<!-- END NAV -->		
+ 		<div class="home-image"> </div>		
+ 		
+ 		
+ 		<!-- GREETING-->		
+ 			<?php include"./inc/greeting.php"; ?>		
+ 		<!-- END GREETING-->		
+ 			<br>		
+ 		<!-- Server Info-->		
+ 			<div class="info well-g">		
+ 				<h2>» Server Info «</h2>		
+ 				<p>Server Address » <b>mc.overridenetwork.net</b></p>		
+ 				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>		
+ 			</div>		
+ 		
+ 		<!-- END Server Info-->		
+  			<br>		  			<br>
+ 		<!-- FOOTER -->		 +<div class="footer">
+ 			<?php include"./inc/footer.php"; ?>		 +	<p class="footer-copyright">Override Network &copy; 2016</p>
+ 		<!-- END FOOTER -->
 </html>
