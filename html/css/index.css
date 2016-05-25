@@ -29,13 +29,10 @@ body {
 }
 .navbar a {
 	color: #3E4345;
+	padding: 10px 10px;
 	font-style: avant garde;
 	color: #3E4345;
-	font-size: 16;
-	padding: 1;
-	letter-spacing: 0.3px;
-	word-spacing: 0px;
-	line-height: 16px;
+	font-size: 16px;
 }
 .navbar a:hover {
 	color: #a9a9a9;
@@ -111,7 +108,7 @@ body {
 	text-decoration: none;
 }
 .footer-nav a {
-	color: #808080;
+	color: #176093;
 	padding: 10px 10px;
 	font-size: 16px;
 	font-family: trebuchet ms;
