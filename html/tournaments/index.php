@@ -15,30 +15,11 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div class="row">
-	<div class="container">
-		<div class="page-header">
-			<h2>
-				Tournaments
-			<small></small>
-				</a>
-			</h2>
+	<hr width="100%" />
+		<div class="info well-f">
+			<h2>» Server Info «</h2>
+			<p>Server Address » <b>mc.overridenetwork.net</b></p>
+			<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
 		</div>
-	</div>
-		<br></a>
-		
-<div class="span12" style="text-align: center; margin-top: 24px;">
-	<div class="alert alert-danger">
-		Registration closed
-<big></big>
-	</div>
-</div>
-		
-		<hr width="100%" />
-			<div class="info well-g">
-				<h2>» Server Info «</h2>
-				<p>Server Address » <b>mc.overridenetwork.net</b></p>
-				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
-			</div>
 	</body>
 </html>
