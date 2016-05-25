@@ -38,40 +38,41 @@
 		<!-- END FOOTER -->
 		<div class="row">
 <div class="col-md-2 col-sm-4 col-xs-6">
+	<ul class="nav nav-pills nav-stacked">
+	<li class="heading">
+		Policies
+	</li>
+		<li>
+		<a href="/rules">Player Rules</a>
+	</li>
+		<li>
+		<a href="/terms">Terms of Service</a>
+	</li>
+		<li>
+		<a href="/privacy">Privacy Policy</a>
+	</li>
+		<li>
+		<a href="/refund">Refund Policy</a>
+	</li>
+		</ul>
+	</div>
+		<div class="col-md-2 col-sm-4 col-xs-6">
+		
 <ul class="nav nav-pills nav-stacked">
-<li class="heading">
-Policies
-</li>
-<li>
-<a href="/rules">Player Rules</a>
-</li>
-<li>
-<a href="/terms">Terms of Service</a>
-</li>
-<li>
-<a href="/privacy">Privacy Policy</a>
-</li>
-<li>
-<a href="/refund">Refund Policy</a>
-</li>
-</ul>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6">
-<ul class="nav nav-pills nav-stacked">
-<li class="heading">
-Moderation
-</li>
-<li>
-<a href="/report">Report a Player</a>
-</li>
-<li>
-<a href="/appeal">Appeal a Punishment</a>
-</li>
-<li>
-<a href="/punishments">Recent Punishments</a>
-</li>
-</ul>
-</div>
+		<li class="heading">
+		Moderation
+	</li>
+		<li>
+		<a href="/report">Report a Player</a>
+	</li>
+		<li>
+	<a href="/appeal">Appeal a Punishment</a>
+	</li>
+		<li>
+		<a href="/punishments">Recent Punishments</a>
+	</li>
+		</ul>
+	</div>
 <div class="clearfix visible-xs-block" style="padding-bottom: 20px;"></div>
 <div class="col-md-2 col-sm-4 col-xs-6">
 <ul class="nav nav-pills nav-stacked">
@@ -95,42 +96,16 @@ Organization
 <li class="heading">
 Contact Us
 </li>
-<li>
-<a class="inquiry" data-toggle="modal" href="#contact">General Inquiries</a>
-</li>
-<li>
-<a class="inquiry" data-toggle="modal" href="#contact">Shop Purchases</a>
-</li>
-<li>
-<a href="/appeal">Ban Appeals</a>
-</li>
-</ul>
-</div>
-<div class="clearfix visible-xs-block" style="padding-bottom: 20px;"></div>
-<div class="col-md-2 col-sm-4">
-<ul class="nav nav-pills nav-stacked follow-us">
-<li class="heading">
-Follow Us
-</li>
-<li>
-<a href="https://twitter.com/OvercastNetwork">
-<img src="https://static.oc.tc/assets/twitter_icon-ce65c4f4c6d6212c05301d0f3c1a38e8a0b6b0baa8c98853b0ddc310372b6e58.png">
-Twitter
-</a>
-<a href="https://www.facebook.com/OvercastNetwork">
-<img src="https://static.oc.tc/assets/facebook_icon-34f4e0ba3a52886710c0360d3f8f35352b6c0a73c7181f690c135b1d24eaa8f0.png">
-Facebook
-</a>
-<a href="https://www.youtube.com/c/OvercastNetwork">
-<img src="https://static.oc.tc/assets/youtube_icon-a724516a1d426e48bae525ea6e04abc3e1cf8234989b3f300ed294a61a6c893d.png">
-YouTube
-</a>
-<a href="http://www.twitch.tv/ocnlive">
-<img src="https://static.oc.tc/assets/twitch_icon-6604f0ced4759bd1c8bb6a01de875a66024f422c14789a752024980d57ba7398.png">
-Twitch
-</a>
-</li>
-</ul>
+	<li>
+		<a class="inquiry" data-toggle="modal" href="#contact">General Inquiries</a>
+		</li>
+	<li>
+		<a class="inquiry" data-toggle="modal" href="#contact">Shop Purchases</a>
+		</li>
+	<li>
+		<a href="/appeal">Ban Appeals</a>
+		</li>
+	</ul>
 </div>
 <div class="clearfix visible-xs-block" style="padding-bottom: 20px;"></div>
 <div class="col-md-2 col-sm-4" style="text-align: center;">
