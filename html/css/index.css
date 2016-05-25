@@ -3,7 +3,7 @@ body {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	font-family: trebuchet ms;
+	font-family: tahoma ms;
 	margin: 0;
 	color: #777171;
 }
@@ -30,7 +30,7 @@ body {
 .navbar a {
 	color: #3E4345;
 	padding: 10px 10px;
-	font-style: rockwell;
+	font-style: tahoma;
 	color: #3E4345;
 	font-size: 16px;
 }
