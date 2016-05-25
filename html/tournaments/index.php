@@ -30,19 +30,10 @@
 </div>
 		
 		<hr width="100%" />
-				<footer class="footer">
-			<div class="container">
-				<div class="pull-left">
-					&copy; 2016 Override Network
-				</div>
-				<div class="pull-right">
-					<a href="https://twitter.com/OverrideNet"><i class="fa fa-twitter fa-lg"></i></a>
-					|
-					<a href="http://overridenetwork.net/forums">Forums</a>
-					|
-					<a href="http://overridenetwork.net">Home</a>
-				</div>
+			<div class="info well-g">
+				<h2>» Server Info «</h2>
+				<p>Server Address » <b>mc.overridenetwork.net</b></p>
+				<p>Teamspeak Address » <b>ts.overridenetwork.net</b></p>
 			</div>
-		</footer>
 	</body>
 </html>
