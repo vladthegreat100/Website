@@ -3,6 +3,6 @@
 </div>
 
 <div id='container'>
- 	<img src='http://overridenetwork.net/forums/styles/logo.png' style='float: left;'/>
- 		<p>some text (that will now wrap around the image</p>
+ 	<img src='http://overridenetwork.net/forums/styles/logo.png' style='float: right;'/>
+ 		<p>Welcome to Override Network! We offer a few different here gamemodes such as Desta, HCF, and Practice. Since the network is still in beta gamemodes can and will have bugs so dont forget to report them!</p>
 	</div>
