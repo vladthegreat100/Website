@@ -41,7 +41,7 @@
 <div class="col-md-3 col-sm-5 col-xs-7">
 	<ul class="nav nav-pills nav-stacked">
 	<li class="heading">
-		ABOUT US
+		<li>ABOUT US</li>
 	</li>
 		<li>
 		<a>A Minecraft PvP server dedicated to some of the most intense and competitive environments available, providing only the best matches, community, and staff.</a>
@@ -53,16 +53,16 @@
 		<div class="col-md-2 col-sm-4 col-xs-6">
 <ul class="nav nav-pills nav-stacked">
 		<li class="heading">
-		Moderation
+		Server Info
 	</li>
 		<li>
-		<a href="/report">Report a Player</a>
+		<a href="/rules">Server Rules</a>
 	</li>
 		<li>
-	<a href="/appeal">Appeal a Punishment</a>
+	<a href="/tos">Server Terms</a>
 	</li>
 		<li>
-		<a href="/punishments">Recent Punishments</a>
+		<a href="/information">Information</a>
 	</li>
 		</ul>
 	</div>
