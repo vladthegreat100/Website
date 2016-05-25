@@ -28,10 +28,12 @@ body {
 	box-shadow: 5px 5px 15px #05080b inset;
 }
 .navbar a {
-	color: #808080;
+	color: #000000;
 	padding: 10px 10px;
 	font-size: 16px;
-	font-family: trebuchet ms;
+	font-family: lucida sans;
+	font-variant: small-caps;
+	font-weight: bold;
 }
 .navbar a:hover {
 	color: #a9a9a9;
